@@ -17708,5 +17708,148 @@
     "explanation": "املای درست این کلمه با حرف «ح» است و نگارش آن با «خ» کاملاً اشتباه است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "اکثراً نتایج به‌دست‌آمده با فرضیهٔ اصلی پژوهش هم‌خوانی داشتند.",
+    "correct_text": "غالباً نتایج به‌دست‌آمده با فرضیهٔ اصلی پژوهش هم‌خوانی داشتند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اکثراً",
+    "correct_phrase": "غالباً",
+    "explanation": "«اکثراً» واژه‌ای نامعیار است؛ برای این معنا «غالباً» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اگر چنانچه داده‌ها ناقص باشند، تحلیل نهایی با محدودیت روبه‌رو می‌شود.",
+    "correct_text": "اگر داده‌ها ناقص باشند، تحلیل نهایی با محدودیت روبه‌رو می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "اگر چنانچه",
+    "correct_phrase": "اگر",
+    "explanation": "ترکیب «اگر چنانچه» حشو دارد؛ «اگر» برای بیان شرط کافی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کمیتهٔ علمی پیشنهاد پژوهشگر را از فرایند داوری القا کرد.",
+    "correct_text": "کمیتهٔ علمی پیشنهاد پژوهشگر را از فرایند داوری الغا کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "القا",
+    "correct_phrase": "الغا",
+    "explanation": "«الغا» به معنای باطل‌کردن است؛ «القا» به معنای القاکردن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "مسئول آزمایشگاه به‌عنوان امانتگزار تجهیزات پژوهشی منصوب شد.",
+    "correct_text": "مسئول آزمایشگاه به‌عنوان امانت‌گذار تجهیزات پژوهشی منصوب شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "امانتگزار",
+    "correct_phrase": "امانت‌گذار",
+    "explanation": "«امانت‌گذار» با «گذار» و نیم‌فاصله نوشته می‌شود و با ذ نوشته میشود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ساختار اداری امپراطور در منابع تاریخی بررسی شد.",
+    "correct_text": "ساختار اداری امپراتور در منابع تاریخی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "امپراطور",
+    "correct_phrase": "امپراتور",
+    "explanation": "املای معیار این واژه «امپراتور» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "عمی‌شدنِ محلول در مرحلهٔ دوم آزمایش ثبت شد.",
+    "correct_text": "آمی‌شدنِ محلول در مرحلهٔ دوم آزمایش ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "عمی",
+    "correct_phrase": "آمی",
+    "explanation": "«آمی» به معنای درهم‌آمیزنده است و با الف نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انسانیتِ ساکن در مناطق آسیب‌دیده به کمک‌های فوری نیاز داشت.",
+    "correct_text": "بشریتِ ساکن در مناطق آسیب‌دیده به کمک‌های فوری نیاز داشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انسانیت",
+    "correct_phrase": "بشریت",
+    "explanation": "«بشریت» به کل انسان‌ها اشاره دارد؛ «انسانیت» به معنای اخلاق انسانی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "با این وجود، نتایج پژوهش نیازمند بررسی‌های تکمیلی هستند.",
+    "correct_text": "با وجود این، نتایج پژوهش نیازمند بررسی‌های تکمیلی هستند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "با این وجود",
+    "correct_phrase": "با وجود این",
+    "explanation": "ترکیب فصیح و معیار «با وجود این» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نمونه‌های خاک از حاشیهٔ باطلاق جمع‌آوری شدند.",
+    "correct_text": "نمونه‌های خاک از حاشیهٔ باتلاق جمع‌آوری شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "باطلاق",
+    "correct_phrase": "باتلاق",
+    "explanation": "املای معیار این واژه «باتلاق» با «ت» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بازرسین دانشگاه رعایت ضوابط ایمنی را ارزیابی کردند.",
+    "correct_text": "بازرسان دانشگاه رعایت ضوابط ایمنی را ارزیابی کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "بازرسین",
+    "correct_phrase": "بازرسان",
+    "explanation": "واژهٔ فارسی «بازرس» باید با نشانهٔ جمع فارسی جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "گزارش پژوهش با عبارت بسمه تعالی آغاز شد.",
+    "correct_text": "گزارش پژوهش با عبارت باسمه تعالی آغاز شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بسمه تعالی",
+    "correct_phrase": "باسمه تعالی",
+    "explanation": "صورت معیار این عبارت «باسمه تعالی» با الف است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "باغات منطقه در کاهش دمای محیطی نقش مؤثری دارند.",
+    "correct_text": "باغ‌ها منطقه در کاهش دمای محیطی نقش مؤثری دارند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "باغات",
+    "correct_phrase": "باغ‌ها",
+    "explanation": "واژهٔ فارسی «باغ» باید با «ها» جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بنچوچه در ساخت سازه‌های سبک روستایی کاربرد داشته است.",
+    "correct_text": "بنجوچه در ساخت سازه‌های سبک روستایی کاربرد داشته است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بنچوچه",
+    "correct_phrase": "بنجوچه",
+    "explanation": "صورت درست این واژه «بنجوچه» با حرف «ج» است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
