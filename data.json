@@ -19655,5 +19655,104 @@
     "explanation": "املای معیار این واژه «تپانچه» با حرف «ت» است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "پزشگ مسئول بررسی علائم اولیهٔ بیماران در طرح پژوهشی بود.",
+    "correct_text": "پزشک مسئول بررسی علائم اولیهٔ بیماران در طرح پژوهشی بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "پزشگ",
+    "correct_phrase": "پزشک",
+    "explanation": "واژهٔ «پزشک» با حرف «ک» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پیشرفت حریق در ساختمان آزمایشگاه به‌سرعت مهار شد.",
+    "correct_text": "پیشروی حریق در ساختمان آزمایشگاه به‌سرعت مهار شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "پیشرفت حریق",
+    "correct_phrase": "پیشروی حریق",
+    "explanation": "برای گسترش امور مادی، «پیشروی» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پیشنهگزار این رویکرد، اصول آن را در مقاله‌ای مستقل تدوین کرد.",
+    "correct_text": "پیشنهادگذار این رویکرد، اصول آن را در مقاله‌ای مستقل تدوین کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "پیشنهگزار",
+    "correct_phrase": "پیشنهادگذار",
+    "explanation": "این واژه با «پیشنهاد» و «گذار» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشجو پس از دریافت خبر ناگوار، تحسر عمیقی احساس کرد.",
+    "correct_text": "دانشجو پس از دریافت خبر ناگوار، تأثر عمیقی احساس کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تحسر",
+    "correct_phrase": "تأثر",
+    "explanation": "«تأثر» به معنای اندوهگین‌شدن است؛ «تحسر» معنای افسوس‌خوردن دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برای اجرای آزمایش، تاس استاندارد انتخاب شد.",
+    "correct_text": "برای اجرای آزمایش، تاس استاندارد انتخاب شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "طاس",
+    "correct_phrase": "تاس",
+    "explanation": "واژهٔ فارسی «تاس» با حرف «ت» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نشست علمی در طالار مرکزی دانشگاه برگزار شد.",
+    "correct_text": "نشست علمی در تالار مرکزی دانشگاه برگزار شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طالار",
+    "correct_phrase": "تالار",
+    "explanation": "واژهٔ فارسی «تالار» با حرف «ت» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیمار پس از عمل جراحی، تعلم شدیدی را تجربه کرد.",
+    "correct_text": "بیمار پس از عمل جراحی، تألم شدیدی را تجربه کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تعلم",
+    "correct_phrase": "تألم",
+    "explanation": "«تألم» به معنای درد کشیدن است؛ «تعلم» معنای آموزش دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اتباع ایرانی در نشست علمی شرکت کرد.",
+    "correct_text": "تبعهٔ ایرانی در نشست علمی شرکت کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "اتباع",
+    "correct_phrase": "تبعه",
+    "explanation": "«تبعه» مفرد است و «اتباع» صورت جمع آن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تولید تنیچه‌های پژوهشی برای کودکان در آزمایشگاه آغاز شد.",
+    "correct_text": "تولید تنیچه‌های پژوهشی برای کودکان در آزمایشگاه آغاز شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طنابچه",
+    "correct_phrase": "تنیچه",
+    "explanation": "صورت درست این واژه «تنیچه» با حرف «ت» است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
