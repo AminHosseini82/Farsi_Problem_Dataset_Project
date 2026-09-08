@@ -20535,5 +20535,93 @@
     "explanation": "آوردن کلماتی مانند «لذا» در جواب جمله‌ای که با قید «چون» آغاز شده، حشو و زائد محسوب می‌شود.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "ماها نتایج آزمایش را به‌صورت گروهی تحلیل کردیم.",
+    "correct_text": "ما نتایج آزمایش را به‌صورت گروهی تحلیل کردیم.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "ماها",
+    "correct_phrase": "ما",
+    "explanation": "ضمیر «ما» خود جمع است و به «ها» نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "شماها باید نسخهٔ نهایی مقاله را بازبینی کنید.",
+    "correct_text": "شما باید نسخهٔ نهایی مقاله را بازبینی کنید.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "شماها",
+    "correct_phrase": "شما",
+    "explanation": "ضمیر «شما» خود جمع است و به «ها» نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "وجوهات مالی پروژه در گزارش سالانه ثبت شد.",
+    "correct_text": "وجوه مالی پروژه در گزارش سالانه ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "وجوهات",
+    "correct_phrase": "وجوه",
+    "explanation": "«وجوه» خود جمع مکسر است و دوباره جمع بسته نمی‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "خواصات فیزیکی ماده در آزمایشگاه سنجیده شد.",
+    "correct_text": "خواص فیزیکی ماده در آزمایشگاه سنجیده شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "خواصات",
+    "correct_phrase": "خواص",
+    "explanation": "«خواص» خود جمع مکسر است و دوباره جمع بسته نمی‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "عیالات پژوهشگر در محل اجرای طرح سکونت داشتند.",
+    "correct_text": "عیال پژوهشگر در محل اجرای طرح سکونت داشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "عیالات",
+    "correct_phrase": "عیال",
+    "explanation": "«عیال» در این کاربرد به جمع‌بستن عربی نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "جواهرات کشف‌شده در کاوش باستان‌شناسی طبقه‌بندی شدند.",
+    "correct_text": "جواهرهای کشف‌شده در کاوش باستان‌شناسی طبقه‌بندی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "جواهرات",
+    "correct_phrase": "جواهرها",
+    "explanation": "صورت «جواهرات» در فارسی معاصر نادرست شمرده نمی‌شود، اما «جواهرها» فارسی‌تر است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "جواهرات کشف‌شده در کاوش باستان‌شناسی طبقه‌بندی شدند.",
+    "correct_text": "جواهر کشف‌شده در کاوش باستان‌شناسی طبقه‌بندی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "جواهرات",
+    "correct_phrase": "جواهر",
+    "explanation": "«جواهر» خود صورت جمع است و به «ات» نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "چاییِ مصرف‌شده در آزمایشگاه از نظر ترکیبات شیمیایی بررسی شد.",
+    "correct_text": "چایِ مصرف‌شده در آزمایشگاه از نظر ترکیبات شیمیایی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "چایی",
+    "correct_phrase": "چای",
+    "explanation": "صورت معیار این واژه «چای» است، نه «چایی».",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
