@@ -18621,16 +18621,5 @@
     "explanation": "صورت درست این واژه «بنجوخه» است.",
     "text_domain": "academic",
     "language": "Persian"
-  },
-  {
-    "incorrect_text": "هیئت داوری پس از بررسی درخواست، خطای پژوهشگر را بخشید.",
-    "correct_text": "هیئت داوری پس از بررسی درخواست، خطای پژوهشگر را بخشود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "بخشیدن",
-    "correct_phrase": "بخشودن",
-    "explanation": "«بخشودن» به معنای عفوکردن است؛ «بخشیدن» معنای عطاکردن دارد.",
-    "text_domain": "academic",
-    "language": "Persian"
   }
 ]
