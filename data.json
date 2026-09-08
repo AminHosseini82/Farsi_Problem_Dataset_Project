@@ -19820,5 +19820,71 @@
     "explanation": "واژه تشت فارسی است و املای آن با حرف طاء در رسم‌الخط امروزی فصیح نیست.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "برای تهدیدِ حدود متغیرهای پژوهش، معیارهای مشخصی تعیین شد.",
+    "correct_text": "برای تحدیدِ حدود متغیرهای پژوهش، معیارهای مشخصی تعیین شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تهدید",
+    "correct_phrase": "تحدید",
+    "explanation": "«تحدید» به معنای مرزبندی است؛ «تهدید» به معنای ترساندن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تحسر پژوهشگر از حذف داده‌های ارزشمند در گزارش ثبت شد.",
+    "correct_text": "تأثر پژوهشگر از حذف داده‌های ارزشمند در گزارش ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تحسر",
+    "correct_phrase": "تأثر",
+    "explanation": "«تأثر» به معنای اندوهگین‌شدن است؛ «تحسر» به معنای افسوس‌خوردن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برای طرازکردن سطح دستگاه، از ابزار اندازه‌گیری استفاده شد.",
+    "correct_text": "برای ترازکردن سطح دستگاه، از ابزار اندازه‌گیری استفاده شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طراز",
+    "correct_phrase": "تراز",
+    "explanation": "واژهٔ فارسی «تراز» با حرف «ت» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تراوشات نفتی در بخش شمالی میدان اندازه‌گیری شدند.",
+    "correct_text": "تراوش‌های نفتی در بخش شمالی میدان اندازه‌گیری شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "تراوشات",
+    "correct_phrase": "تراوش‌ها",
+    "explanation": "واژهٔ فارسی «تراوش» باید با «ها» جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ترشیجات محلی از نظر ترکیبات میکروبی بررسی شدند.",
+    "correct_text": "ترشی‌های محلی از نظر ترکیبات میکروبی بررسی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "ترشیجات",
+    "correct_phrase": "ترشی‌ها",
+    "explanation": "واژهٔ فارسی «ترشی» باید با نشانهٔ جمع فارسی جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برای تعویذِ متغیر آزمایش، نسخهٔ اصلاح‌شده اجرا شد.",
+    "correct_text": "برای تعویضِ متغیر آزمایش، نسخهٔ اصلاح‌شده اجرا شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تعویذ",
+    "correct_phrase": "تعویض",
+    "explanation": "«تعویض» به معنای عوض‌کردن است؛ «تعویذ» معنای دعایی دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
