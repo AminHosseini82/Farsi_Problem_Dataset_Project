@@ -20084,5 +20084,126 @@
     "explanation": "«صواب» با حرف صاد به معنای کار درست است، ولی «ثواب» به پاداش و اجر اخروی اشاره دارد.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "توفان شدید سبب توقف فعالیت‌های دریایی شد.",
+    "correct_text": "طوفان شدید سبب توقف فعالیت‌های دریایی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "توفان",
+    "correct_phrase": "طوفان",
+    "explanation": "«طوفان» به باد و باران شدید اشاره دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "طوفانِ احساسات در روایت ادبی آشکار شد.",
+    "correct_text": "توفانِ احساسات در روایت ادبی آشکار شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "طوفان",
+    "correct_phrase": "توفان",
+    "explanation": "«توفان» از «توفیدن» می‌آید و معنای خروش دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برای تهدیدِ حدود پژوهش، متغیرهای اصلی مشخص شدند.",
+    "correct_text": "برای تحدیدِ حدود پژوهش، متغیرهای اصلی مشخص شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تهدید",
+    "correct_phrase": "تحدید",
+    "explanation": "«تحدید» به معنای مرزبندی است؛ «تهدید» معنای ترساندن دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "مدیر پروژه اعضای گروه را به تحدیدِ بودجه تهدید کرد.",
+    "correct_text": "مدیر پروژه اعضای گروه را به تهدیدِ بودجه تهدید کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تحدید",
+    "correct_phrase": "تهدید",
+    "explanation": "«تهدید» به معنای ترساندن است؛ «تحدید» معنای مرزبندی دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سمرِ باغ در بررسی ترکیبات غذایی اندازه‌گیری شد.",
+    "correct_text": "ثمرِ باغ در بررسی ترکیبات غذایی اندازه‌گیری شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "سمر",
+    "correct_phrase": "ثمر",
+    "explanation": "«ثمر» به معنای میوه است؛ «سمر» به معنای داستان شبانه است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ثمرِ شبانه در ادبیات شفاهی منطقه تحلیل شد.",
+    "correct_text": "سمرِ شبانه در ادبیات شفاهی منطقه تحلیل شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "ثمر",
+    "correct_phrase": "سمر",
+    "explanation": "«سمر» به معنای افسانه و قصهٔ شبانه است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نمونه‌های سمین از نظر ارزش غذایی تحلیل شدند.",
+    "correct_text": "نمونه‌های ثمین از نظر ارزش غذایی تحلیل شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "سمین",
+    "correct_phrase": "ثمین",
+    "explanation": "«ثمین» به معنای گران‌بهاست؛ «سمین» به معنای چاق است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حیوان سمین در ارزیابی وضعیت بدنی بررسی شد.",
+    "correct_text": "حیوان سمین در ارزیابی وضعیت بدنی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "ثمین",
+    "correct_phrase": "سمین",
+    "explanation": "«سمین» به معنای چاق و فربه است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر برای مشارکت علمی خود صواب دریافت کرد.",
+    "correct_text": "پژوهشگر برای مشارکت علمی خود ثواب دریافت کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "صواب",
+    "correct_phrase": "ثواب",
+    "explanation": "«ثواب» پاداش نیکی است؛ «صواب» به معنای درست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "روش صواب برای تحلیل داده‌ها انتخاب شد.",
+    "correct_text": "روش درست برای تحلیل داده‌ها انتخاب شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "ثواب",
+    "correct_phrase": "صواب",
+    "explanation": "«صواب» به معنای درست است؛ «ثواب» معنای پاداش نیکی دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "جامداً در برابر تغییرات محیطی مقاومت کرد.",
+    "correct_text": "جامدان در برابر تغییرات محیطی مقاومت کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "تنوین‌گذاری واژهٔ فارسی",
+    "incorrect_phrase": "جامداً",
+    "correct_phrase": "جامدان",
+    "explanation": "واژهٔ فارسی «جامدان» نباید با تنوین نوشته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
