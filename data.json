@@ -20205,5 +20205,93 @@
     "explanation": "واژهٔ فارسی «جامدان» نباید با تنوین نوشته شود.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "توفان شدید موجب اختلال در ایستگاه‌های هواشناسی شد.",
+    "correct_text": "طوفان شدید موجب اختلال در ایستگاه‌های هواشناسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "توفان",
+    "correct_phrase": "طوفان",
+    "explanation": "«طوفان» به باد و باران شدید اشاره دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تغییرات ناگهانی داده‌ها، توفان بحث‌های علمی را برانگیخت.",
+    "correct_text": "تغییرات ناگهانی داده‌ها، توفان بحث‌های علمی را برانگیخت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "طوفان",
+    "correct_phrase": "توفان",
+    "explanation": "«توفان» در فارسی به معنای خروشان و پرهیاهو به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کمیتهٔ تخصصی محدودهٔ پژوهش را تهدید کرد.",
+    "correct_text": "کمیتهٔ تخصصی محدودهٔ پژوهش را تحدید کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تهدید",
+    "correct_phrase": "تحدید",
+    "explanation": "«تحدید» به معنای تعیین حد و مرز است؛ «تهدید» معنای ترساندن دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سمر این درخت در تحلیل محصولات کشاورزی ارزیابی شد.",
+    "correct_text": "ثمر این درخت در تحلیل محصولات کشاورزی ارزیابی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "سمر",
+    "correct_phrase": "ثمر",
+    "explanation": "«ثمر» به معنای میوه است؛ «سمر» به داستان و افسانه اشاره دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ثمرهای شفاهیِ منطقه در پژوهش مردم‌شناختی گردآوری شدند.",
+    "correct_text": "سمرهای شفاهیِ منطقه در پژوهش مردم‌شناختی گردآوری شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "ثمر",
+    "correct_phrase": "سمر",
+    "explanation": "«سمر» به معنای داستان و افسانه است؛ «ثمر» معنای میوه دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این اثر هنری در مجموعهٔ دانشگاه، اثری سمین به‌شمار می‌آید.",
+    "correct_text": "این اثر هنری در مجموعهٔ دانشگاه، اثری ثمین به‌شمار می‌آید.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "سمین",
+    "correct_phrase": "ثمین",
+    "explanation": "«ثمین» به معنای گران‌بها است؛ «سمین» معنای چاق دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در بررسی سلامت دام‌ها، نمونه‌های ثمین شناسایی شدند.",
+    "correct_text": "در بررسی سلامت دام‌ها، نمونه‌های سمین شناسایی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "ثمین",
+    "correct_phrase": "سمین",
+    "explanation": "«سمین» به معنای چاق است؛ «ثمین» معنای گران‌بها دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "رعایت اصول اخلاق پژوهش، ثواب علمی به همراه دارد.",
+    "correct_text": "رعایت اصول اخلاق پژوهش، صواب علمی به همراه دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "ثواب",
+    "correct_phrase": "صواب",
+    "explanation": "«صواب» به معنای کار درست است؛ «ثواب» پاداش نیکی است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
