@@ -18159,5 +18159,148 @@
     "explanation": "«اندام» به معنای عضو بدن است؛ برای ارتفاع بدن «قد» به‌کار می‌رود.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "در نگارش نامهٔ رسمی، عنوان پژوهش با املاء دقیق درج شد.",
+    "correct_text": "در نگارش نامهٔ رسمی، عنوان پژوهش با املا دقیق درج شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ پایانی",
+    "incorrect_phrase": "املاء",
+    "correct_phrase": "املا",
+    "explanation": "واژهٔ فارسی «املا» به همزهٔ پایانی نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر برای املأ متن علمی از شیوه‌نامهٔ دانشگاه استفاده کرد.",
+    "correct_text": "پژوهشگر برای املا متن علمی از شیوه‌نامهٔ دانشگاه استفاده کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ پایانی",
+    "incorrect_phrase": "املأ",
+    "correct_phrase": "املا",
+    "explanation": "واژهٔ فارسی «املا» با همزهٔ پایانی نوشته نمی‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "امریکا در بسیاری از پژوهش‌های اقتصاد بین‌الملل بررسی می‌شود.",
+    "correct_text": "آمریکا در بسیاری از پژوهش‌های اقتصاد بین‌الملل بررسی می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "امریکا",
+    "correct_phrase": "آمریکا",
+    "explanation": "نام این کشور در فارسی معیار با الف ممدود نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "امیال دانشجویان در انتخاب رشتهٔ تحصیلی نقش مؤثری دارند.",
+    "correct_text": "میل‌ها یا هوس‌های دانشجویان در انتخاب رشتهٔ تحصیلی نقش مؤثری دارند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "امیال",
+    "correct_phrase": "میل‌ها / هوس‌ها",
+    "explanation": "«امیال» جمع عربیِ «میل» است و در فارسی معیار کاربرد مناسب ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انتصاب این نظریه به پژوهشگر یادشده، مستند نیست.",
+    "correct_text": "انتساب این نظریه به پژوهشگر یادشده، مستند نیست.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انتصاب",
+    "correct_phrase": "انتساب",
+    "explanation": "«انتساب» به معنای نسبت‌دادن است؛ «انتصاب» معنای گماردن دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انتساب مدیر جدید گروه آموزشی در ابتدای سال تحصیلی انجام شد.",
+    "correct_text": "انتصاب مدیر جدید گروه آموزشی در ابتدای سال تحصیلی انجام شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انتساب",
+    "correct_phrase": "انتصاب",
+    "explanation": "«انتصاب» به معنای گماردن است؛ «انتساب» معنای نسبت‌دادن دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران انتظار رفتن دارند که داده‌های تکمیلی به‌زودی منتشر شوند.",
+    "correct_text": "پژوهشگران انتظار دارند که داده‌های تکمیلی به‌زودی منتشر شوند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "انتظار رفتن",
+    "correct_phrase": "انتظار داشتن",
+    "explanation": "ترکیب معیار در فارسی «انتظار داشتن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اندام شرکت‌کنندگان پیش از ورود به آزمایش ثبت شد.",
+    "correct_text": "قد یا قامت شرکت‌کنندگان پیش از ورود به آزمایش ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اندام",
+    "correct_phrase": "قد / قامت",
+    "explanation": "«اندام» به عضو یا پیکر اشاره دارد و معنای قد ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشجوی اندیشناک، مقاله‌ای نوآورانه در حوزهٔ هوش مصنوعی ارائه کرد.",
+    "correct_text": "دانشجوی اندیشمند، مقاله‌ای نوآورانه در حوزهٔ هوش مصنوعی ارائه کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اندیشناک",
+    "correct_phrase": "اندیشمند",
+    "explanation": "«اندیشمند» به معنای متفکر است؛ «اندیشناک» معنای نگران دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اندیشمند از نتایج متناقض پژوهش نگران بود.",
+    "correct_text": "اندیشناک از نتایج متناقض پژوهش نگران بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اندیشمند",
+    "correct_phrase": "اندیشناک",
+    "explanation": "«اندیشناک» به معنای مضطرب و نگران است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انسانیت برای مقابله با بحران‌های جهانی به همکاری نیاز دارد.",
+    "correct_text": "بشریت برای مقابله با بحران‌های جهانی به همکاری نیاز دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انسانیت",
+    "correct_phrase": "بشریت / بشر",
+    "explanation": "«بشریت» به مجموعهٔ انسان‌ها اشاره دارد؛ «انسانیت» صفت اخلاقی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در این متن، اَنعام به معنای بخشش و نیکوکاری به‌کار رفته است.",
+    "correct_text": "در این متن، اِنعام به معنای بخشش و نیکوکاری به‌کار رفته است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "حرکت‌گذاری نادرست یا غیرضروری",
+    "incorrect_phrase": "اَنعام",
+    "correct_phrase": "اِنعام",
+    "explanation": "«اِنعام» به معنای بخشش است؛ «اَنعام» به چهارپایان اشاره دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ایلام یکی از تمدن‌های مهم ایران باستان به‌شمار می‌آید.",
+    "correct_text": "عیلام یکی از تمدن‌های مهم ایران باستان به‌شمار می‌آید.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "ایلام",
+    "correct_phrase": "عیلام",
+    "explanation": "نام سلسلهٔ تاریخی ایران باستان «عیلام» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
