@@ -18767,17 +18767,6 @@
   },
   {
     "incorrect_text": "مطمئناً نتایج این آزمایش به بررسی دوباره نیاز دارند.",
-    "correct_text": "مسلماً نتایج این آزمایش به بررسی دوباره نیاز دارند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "مطمئناً",
-    "correct_phrase": "مسلماً",
-    "explanation": "برای قید جمله، «مسلماً» از «مطمئناً» فصیح‌تر است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "مطمئناً نتایج این آزمایش به بررسی دوباره نیاز دارند.",
     "correct_text": "بی‌گمان نتایج این آزمایش به بررسی دوباره نیاز دارند.",
     "error_category": "اشکالات املایی و واژگانی",
     "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
@@ -18811,17 +18800,6 @@
   },
   {
     "incorrect_text": "بر اثر کمبود منابع، اجرای طرح با تأخیر مواجه شد.",
-    "correct_text": "به علت کمبود منابع، اجرای طرح با تأخیر مواجه شد.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "بر اثر",
-    "correct_phrase": "به علت",
-    "explanation": "برای بیان علت، ترکیب «به علت» مناسب‌تر است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "بر اثر کمبود منابع، اجرای طرح با تأخیر مواجه شد.",
     "correct_text": "در اثر کمبود منابع، اجرای طرح با تأخیر مواجه شد.",
     "error_category": "اشکالات املایی و واژگانی",
     "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
@@ -18839,17 +18817,6 @@
     "incorrect_phrase": "براءت",
     "correct_phrase": "برائت",
     "explanation": "همزهٔ این واژه بر کرسی «ی» نوشته می‌شود: «برائت».",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "برای شروع، چارچوب نظری پژوهش معرفی می‌شود.",
-    "correct_text": "در آغاز، چارچوب نظری پژوهش معرفی می‌شود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "برای شروع",
-    "correct_phrase": "در آغاز",
-    "explanation": "ترکیب «در آغاز» در نثر رسمی و علمی مناسب‌تر است.",
     "text_domain": "academic",
     "language": "Persian"
   },
