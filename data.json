@@ -20337,5 +20337,71 @@
     "explanation": "واژه امور خود جمع مکسر است و جمع بستن مجدد آن با «ات» در متون معیار نادرست است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "گزارشاتِ پژوهشی در نشست علمی ارائه شدند.",
+    "correct_text": "گزارش‌های پژوهشی در نشست علمی ارائه شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "گزارشات",
+    "correct_phrase": "گزارش‌ها",
+    "explanation": "واژهٔ فارسی «گزارش» باید با «ها» جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کارخانجاتِ منطقه در ارزیابی زیست‌محیطی بررسی شدند.",
+    "correct_text": "کارخانه‌های منطقه در ارزیابی زیست‌محیطی بررسی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "کارخانجات",
+    "correct_phrase": "کارخانه‌ها",
+    "explanation": "واژهٔ فارسی «کارخانه» باید با نشانهٔ جمع فارسی جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کشته‌گانِ حادثه در گزارش آماری ثبت شدند.",
+    "correct_text": "کشتگانِ حادثه در گزارش آماری ثبت شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "کشته‌گان",
+    "correct_phrase": "کشتگان",
+    "explanation": "پیش از پسوند «گان»، هِ غیرملفوظِ «کشته» حذف می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دیده‌گانِ حاضر در جلسه، پرسش‌نامه را تکمیل کردند.",
+    "correct_text": "دیدگانِ حاضر در جلسه، پرسش‌نامه را تکمیل کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "دیده‌گان",
+    "correct_phrase": "دیدگان",
+    "explanation": "پیش از پسوند «گان»، هِ غیرملفوظِ «دیده» حذف می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اموراتِ اداری دانشگاه پیش از آغاز نیم‌سال انجام شد.",
+    "correct_text": "امور اداری دانشگاه پیش از آغاز نیم‌سال انجام شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "امورات",
+    "correct_phrase": "امور",
+    "explanation": "«امور» خود جمعِ «امر» است و دوباره جمع بسته نمی‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "شماها باید نسخهٔ نهایی گزارش را بررسی کنید.",
+    "correct_text": "شما باید نسخهٔ نهایی گزارش را بررسی کنید.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "شماها",
+    "correct_phrase": "شما",
+    "explanation": "ضمیر «شما» خود جمع است و به «ها» نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
