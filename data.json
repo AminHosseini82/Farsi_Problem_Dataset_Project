@@ -18159,27 +18159,5 @@
     "explanation": "«اندام» به معنای عضو بدن است؛ برای ارتفاع بدن «قد» به‌کار می‌رود.",
     "text_domain": "academic",
     "language": "Persian"
-  },
-  {
-    "incorrect_text": "دانشگاه برای پژوهشگران برگزیده انعام علمی در نظر گرفت.",
-    "correct_text": "دانشگاه برای پژوهشگران برگزیده اِنعام علمی در نظر گرفت.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "حرکت‌گذاری نادرست یا غیرضروری",
-    "incorrect_phrase": "اَنعام",
-    "correct_phrase": "اِنعام",
-    "explanation": "«اِنعام» به معنای بخشش است؛ «اَنعام» جمعِ نَعَم و به معنای چهارپایان است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "ایلام از تمدن‌های کهنِ فلات ایران به شمار می‌آید.",
-    "correct_text": "عیلام از تمدن‌های کهنِ فلات ایران به شمار می‌آید.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "ایلام",
-    "correct_phrase": "عیلام",
-    "explanation": "نام تمدن باستانی «عیلام» با حرف «ع» نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
   }
 ]
