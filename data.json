@@ -18478,16 +18478,5 @@
     "explanation": "صورت درست این واژه «بنجوچه» با حرف «ج» است.",
     "text_domain": "academic",
     "language": "Persian"
-  },
-  {
-    "incorrect_text": "هیئت داوری تصمیم گرفت خطای غیرعمدی پژوهشگر را ببخشد.",
-    "correct_text": "هیئت داوری تصمیم گرفت خطای غیرعمدی پژوهشگر را ببخشدود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "بخشیدن",
-    "correct_phrase": "بخشودن",
-    "explanation": "«بخشودن» به معنای عفوکردن است؛ «بخشیدن» بیشتر معنای عطاکردن دارد.",
-    "text_domain": "academic",
-    "language": "Persian"
   }
 ]
