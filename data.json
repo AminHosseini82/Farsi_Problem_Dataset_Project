@@ -19248,5 +19248,159 @@
     "explanation": "در نثر فارسی فصیح، «گذرنامه» بر «پاسپورت» ترجیح دارد.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "بنا بر این، تحلیل داده‌ها در مرحلهٔ بعد انجام خواهد شد.",
+    "correct_text": "بنابراین، تحلیل داده‌ها در مرحلهٔ بعد انجام خواهد شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بنا بر این",
+    "correct_phrase": "بنابراین",
+    "explanation": "این واژه در فارسی معیار به‌صورت پیوسته نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بنیانگزار این نظریه، رویکردی نوین در تحلیل زبان ارائه کرد.",
+    "correct_text": "بنیان‌گذار این نظریه، رویکردی نوین در تحلیل زبان ارائه کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بنیانگزار",
+    "correct_phrase": "بنیان‌گذار",
+    "explanation": "این واژه از «گذاشتن» ساخته شده و با «ذ» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پس از اجرای مداخله، بهبودی یافتن عملکرد دانشجویان مشاهده شد.",
+    "correct_text": "پس از اجرای مداخله، بهبود عملکرد دانشجویان مشاهده شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بهبودی",
+    "correct_phrase": "بهبود",
+    "explanation": "در ترکیب «بهبود یافتن»، صورت درست واژه «بهبود» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیشتری دانشجویان در آزمون پایانی نمرهٔ قابل‌قبولی کسب کردند.",
+    "correct_text": "بیشتر یا اکثر دانشجویان در آزمون پایانی نمرهٔ قابل‌قبولی کسب کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بیشتری",
+    "correct_phrase": "بیشتر / اکثر",
+    "explanation": "«بیشتری» پیش از اسم به‌کار نمی‌رود؛ «بیشتر» یا «اکثر» درست است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "گزارش پژوهش باید بی‌شایبه و مبتنی بر شواهد باشد.",
+    "correct_text": "گزارش پژوهش باید بی‌شائبه و مبتنی بر شواهد باشد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ میانی",
+    "incorrect_phrase": "بی‌شایبه",
+    "correct_phrase": "بی‌شائبه",
+    "explanation": "واژهٔ عربی «شائبه» با همزهٔ میانی نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این روش برای اجرای آزمایش‌های پرهزینه بی‌نیاز به تجهیزات پیشرفته نیست.",
+    "correct_text": "این روش برای اجرای آزمایش‌های پرهزینه بی‌نیاز از تجهیزات پیشرفته نیست.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بی‌نیاز به",
+    "correct_phrase": "بی‌نیاز از",
+    "explanation": "صفت «بی‌نیاز» با حرف اضافهٔ «از» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در بررسی متون اجتماعی، وضعیت بیوه‌زن‌ها نیز تحلیل شد.",
+    "correct_text": "در بررسی متون اجتماعی، وضعیت بیوه‌ها نیز تحلیل شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بیوه‌زن",
+    "correct_phrase": "بیوه",
+    "explanation": "«بیوه» خود به معنای زنِ بی‌شوهر است و «زن» زائد است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "شخصیت بوالهوس در تحلیل‌های روان‌شناختی رفتاری ناپایدار دارد.",
+    "correct_text": "شخصیت بوالهوس در تحلیل‌های روان‌شناختی رفتاری ناپایدار دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "ابوالهوس",
+    "correct_phrase": "بوالهوس",
+    "explanation": "صورت درست این واژه «بوالهوس» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پائین بودن دقت اندازه‌گیری، اعتبار نتایج را کاهش می‌دهد.",
+    "correct_text": "پایین بودن دقت اندازه‌گیری، اعتبار نتایج را کاهش می‌دهد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ میانی",
+    "incorrect_phrase": "پائین",
+    "correct_phrase": "پایین",
+    "explanation": "این واژه با دو حرف «ی» متوالی نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پایگزار این مکتب علمی، مبانی نظری آن را تدوین کرد.",
+    "correct_text": "پایه‌گذار این مکتب علمی، مبانی نظری آن را تدوین کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "پایگزار",
+    "correct_phrase": "پایه‌گذار",
+    "explanation": "این واژه با «پایه» و «گذار» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پرتقال در پژوهش‌های جغرافیای اروپا به‌عنوان یک کشور بررسی می‌شود.",
+    "correct_text": "پرتغال در پژوهش‌های جغرافیای اروپا به‌عنوان یک کشور بررسی می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "پرتقال",
+    "correct_phrase": "پرتغال",
+    "explanation": "«پرتغال» نام کشور است؛ «پرتقال» نام میوه است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پیرامون روش نمونه‌گیری، چند دیدگاه متفاوت مطرح شده است.",
+    "correct_text": "درباره یا راجع به روش نمونه‌گیری، چند دیدگاه متفاوت مطرح شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "پیرامون",
+    "correct_phrase": "درباره / راجع به",
+    "explanation": "«پیرامون» معنای اطراف دارد؛ برای موضوع، «درباره» مناسب است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پیشانی‌نوشت افراد در نظریه‌های عامه‌پسند قطعی فرض می‌شود.",
+    "correct_text": "سرنوشت یا تقدیر افراد در نظریه‌های عامه‌پسند قطعی فرض می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "پیشانی‌نوشت",
+    "correct_phrase": "سرنوشت / تقدیر",
+    "explanation": "«پیشانی‌نوشت» گرته‌برداری است؛ «سرنوشت» یا «تقدیر» معیار است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر برای سفر علمی خود پاسپورت معتبر دریافت کرد.",
+    "correct_text": "پژوهشگر برای سفر علمی خود گذرنامهٔ معتبر دریافت کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "پاسپورت",
+    "correct_phrase": "گذرنامه",
+    "explanation": "در فارسی معیار، «گذرنامه» بر واژهٔ فرنگی «پاسپورت» ترجیح دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
