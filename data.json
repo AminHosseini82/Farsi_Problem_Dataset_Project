@@ -17389,5 +17389,203 @@
     "explanation": "برای بیان حداقل مقدار، صورت معیار «لااقل» است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "در تحلیل فضایی شهر، موقعیت اطاق‌های کنترل باید به‌دقت مشخص شود.",
+    "correct_text": "در تحلیل فضایی شهر، موقعیت اتاق‌های کنترل باید به‌دقت مشخص شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "اطاق",
+    "correct_phrase": "اتاق",
+    "explanation": "صورت معیار این واژه «اتاق» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌های اقلیمی ابان‌ماه برای بررسی تغییرات دما تحلیل شدند.",
+    "correct_text": "داده‌های اقلیمی آبان‌ماه برای بررسی تغییرات دما تحلیل شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "ابان",
+    "correct_phrase": "آبان",
+    "explanation": "نام ماه «آبان» با الف ممدود نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نمونه‌های اباده در شرایط مرطوب، قابلیت نگهداری محدودی داشتند.",
+    "correct_text": "نمونه‌های آبیده در شرایط مرطوب، قابلیت نگهداری محدودی داشتند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "اباده",
+    "correct_phrase": "آبیده",
+    "explanation": "صورت درست این واژه «آبیده» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "توزیع آزوقه در مناطق آسیب‌دیده باید بر پایهٔ نیازسنجی انجام شود.",
+    "correct_text": "توزیع آذوقه در مناطق آسیب‌دیده باید بر پایهٔ نیازسنجی انجام شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "آزوقه",
+    "correct_phrase": "آذوقه",
+    "explanation": "این واژه با «ذ» نوشته می‌شود: «آذوقه».",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "آزمایشات انجام‌شده، فرضیهٔ پژوهش را تأیید کردند.",
+    "correct_text": "آزمایش‌ها انجام‌شده، فرضیهٔ پژوهش را تأیید کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "آزمایشات",
+    "correct_phrase": "آزمایش‌ها",
+    "explanation": "واژهٔ فارسی «آزمایش» با «ها» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "افریقا از نظر تنوع زیستی، یکی از مناطق مهم جهان است.",
+    "correct_text": "آفریقا از نظر تنوع زیستی، یکی از مناطق مهم جهان است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "افریقا",
+    "correct_phrase": "آفریقا",
+    "explanation": "نام این قاره در فارسی «آفریقا» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "آنچه که در مدل مشاهده شد، با پیش‌بینی اولیه تفاوت داشت.",
+    "correct_text": "آنچه در مدل مشاهده شد، با پیش‌بینی اولیه تفاوت داشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "آنچه که",
+    "correct_phrase": "آنچه",
+    "explanation": "«آنچه» معنای «آن که» دارد و «که» پس از آن زائد است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اساس موجود در انبار مرکزی برای تجهیز آزمایشگاه کافی نبود.",
+    "correct_text": "اثاث موجود در انبار مرکزی برای تجهیز آزمایشگاه کافی نبود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اساس",
+    "correct_phrase": "اثاث",
+    "explanation": "«اثاث» به معنای لوازم خانه است؛ «اساس» معنای پایه دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران باید به حقوق مشارکت‌کنندگان احترام گذاشتن را در نظر بگیرند.",
+    "correct_text": "پژوهشگران باید به حقوق مشارکت‌کنندگان احترام کردن را در نظر بگیرند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "احترام گذاشتن",
+    "correct_phrase": "احترام کردن",
+    "explanation": "ترکیب فصیح و معیار «احترام کردن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ارزیابی احوالات دانشجویان برای طراحی مداخلهٔ آموزشی ضروری است.",
+    "correct_text": "ارزیابی احوال دانشجویان برای طراحی مداخلهٔ آموزشی ضروری است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "احوالات",
+    "correct_phrase": "احوال",
+    "explanation": "«احوال» خود صورت جمع است و «ات» نمی‌گیرد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "عرابه‌های چرخ‌دار در تحول حمل‌ونقل شهری نقش مهمی داشتند.",
+    "correct_text": "ارابه‌های چرخ‌دار در تحول حمل‌ونقل شهری نقش مهمی داشتند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "عرابه",
+    "correct_phrase": "ارابه",
+    "explanation": "صورت معیار این واژه «ارابه» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اساتید دانشگاه در تدوین برنامهٔ درسی مشارکت کردند.",
+    "correct_text": "استادان دانشگاه در تدوین برنامهٔ درسی مشارکت کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "اساتید",
+    "correct_phrase": "استادان",
+    "explanation": "واژهٔ فارسی «استاد» با «ان» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اسلامبول در مطالعات تاریخیِ امپراتوری عثمانی جایگاه ویژه‌ای دارد.",
+    "correct_text": "استانبول در مطالعات تاریخیِ امپراتوری عثمانی جایگاه ویژه‌ای دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "اسلامبول",
+    "correct_phrase": "استانبول",
+    "explanation": "املای معیار نام این شهر «استانبول» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اشرافیت در متون تاریخی برای اشاره به طبقهٔ ممتاز اجتماعی به‌کار می‌رود.",
+    "correct_text": "اشراف‌زادگی در متون تاریخی برای اشاره به طبقهٔ ممتاز اجتماعی به‌کار می‌رود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اشرافیت",
+    "correct_phrase": "اشراف‌زادگی",
+    "explanation": "در فارسی معیار، «اشراف‌زادگی» برای این مفهوم مناسب‌تر است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اشعهٔ خورشیدیِ دریافتی در طول سال اندازه‌گیری شد.",
+    "correct_text": "شعاع‌های خورشیدیِ دریافتی در طول سال اندازه‌گیری شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اشعه (به عنوان مفرد)",
+    "correct_phrase": "شعاع‌ها",
+    "explanation": "«اشعه» جمع است و برای مفرد نباید به‌کار رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "استفاده از اطو در فرایند آماده‌سازی نمونه ممنوع است.",
+    "correct_text": "استفاده از اتو در فرایند آماده‌سازی نمونه ممنوع است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "اطو",
+    "correct_phrase": "اتو",
+    "explanation": "صورت درست واژهٔ فارسی «اتو» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیمار افلیج برای ارزیابی توان‌بخشی به مرکز درمانی ارجاع شد.",
+    "correct_text": "بیمار مفلوج برای ارزیابی توان‌بخشی به مرکز درمانی ارجاع شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "افلیج",
+    "correct_phrase": "مفلوج",
+    "explanation": "صورت فصیح این واژه «مفلوج» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اقل یک بار آزمون باید با داده‌های مستقل تکرار شود.",
+    "correct_text": "لااقل یک بار آزمون باید با داده‌های مستقل تکرار شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اقل",
+    "correct_phrase": "لااقل",
+    "explanation": "برای این معنا، صورت درست «لااقل» است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
