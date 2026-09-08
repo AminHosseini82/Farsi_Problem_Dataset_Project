@@ -19512,5 +19512,159 @@
     "explanation": "املای درست و اصیل واژه فارسی «تپانچه» با حرف «ت» است و کاربرد «ط» در آن غلط املایی است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "پزشگ مسئول، وضعیت سلامت شرکت‌کنندگان را ارزیابی کرد.",
+    "correct_text": "پزشک مسئول، وضعیت سلامت شرکت‌کنندگان را ارزیابی کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "پزشگ",
+    "correct_phrase": "پزشک",
+    "explanation": "واژهٔ «پزشک» با حرف «ک» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشگاه طرح آموزشی جدید را در نیم‌سال آینده پیاده می‌کند.",
+    "correct_text": "دانشگاه طرح آموزشی جدید را در نیم‌سال آینده اجرا می‌کند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "پیاده کردن",
+    "correct_phrase": "اجرا کردن",
+    "explanation": "برای طرح و برنامه، فعل «اجرا کردن» کاربرد مناسب‌تری دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پیشرفت حریق به سمت بخش جنوبی جنگل ثبت شد.",
+    "correct_text": "پیشروی حریق به سمت بخش جنوبی جنگل ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "پیشرفت حریق",
+    "correct_phrase": "پیشروی حریق",
+    "explanation": "برای حرکت امور عینی، مانند حریق، «پیشروی» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پینۀگزار در انتقال خبر به واحدهای عملیاتی نقش داشت.",
+    "correct_text": "پیغام‌گذار در انتقال خبر به واحدهای عملیاتی نقش داشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "پیغام‌گزار",
+    "correct_phrase": "پیغام‌گذار",
+    "explanation": "«پیغام‌گذار» از فعل «گذاشتن» ساخته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "توپ به دیوار خورد تا بازآید و سرعت آن اندازه‌گیری شد.",
+    "correct_text": "توپ به دیوار خورد و بازآمد و سرعت آن اندازه‌گیری شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "توپ به دیوار خورد تا بازآید",
+    "correct_phrase": "توپ به دیوار خورد و بازآمد",
+    "explanation": "حرف «تا» برای هدف است؛ در این جمله، «و» رابطهٔ نتیجه را نشان می‌دهد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تحسر پژوهشگر از حذف داده‌های ارزشمند در گزارش ثبت شد.",
+    "correct_text": "تأثر پژوهشگر از حذف داده‌های ارزشمند در گزارش ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تحسر",
+    "correct_phrase": "تأثر",
+    "explanation": "«تأثر» به معنای اندوهگین‌شدن است؛ «تحسر» به معنای افسوس‌خوردن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تاس آزمایشگاهی پیش از انجام واکنش شیمیایی ضدعفونی شد.",
+    "correct_text": "تاس آزمایشگاهی پیش از انجام واکنش شیمیایی ضدعفونی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طاس",
+    "correct_phrase": "تاس",
+    "explanation": "املای معیار این واژهٔ فارسی «تاس» با حرف «ت» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "طالر اصلی دانشگاه برای برگزاری همایش آماده شد.",
+    "correct_text": "تالار اصلی دانشگاه برای برگزاری همایش آماده شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طالر",
+    "correct_phrase": "تالار",
+    "explanation": "واژهٔ فارسی «تالار» با حرف «ت» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تعلّم ناشی از آسیب جسمی در پروندهٔ بیمار ثبت شد.",
+    "correct_text": "تألّم ناشی از آسیب جسمی در پروندهٔ بیمار ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تعلّم",
+    "correct_phrase": "تألّم",
+    "explanation": "«تألّم» به معنای دردکشیدن است؛ «تعلّم» به معنای آموزش‌دیدن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تألّم دانشجویان در دورهٔ آموزشی ارزیابی شد.",
+    "correct_text": "تعلّم دانشجویان در دورهٔ آموزشی ارزیابی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تألّم",
+    "correct_phrase": "تعلّم",
+    "explanation": "«تعلّم» به معنای آموزش‌دیدن است؛ «تألّم» به معنای دردکشیدن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اتباعِ دانشگاه در برنامهٔ آموزشی ثبت‌نام کردند.",
+    "correct_text": "تبعۀ دانشگاه در برنامهٔ آموزشی ثبت‌نام کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اتباع",
+    "correct_phrase": "تبعه",
+    "explanation": "«تبعه» مفرد است و «اتباع» صورت جمع آن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تبعه‌های کشورهای همسایه در طرح پیمایش حضور داشتند.",
+    "correct_text": "اتباع کشورهای همسایه در طرح پیمایش حضور داشتند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تبعه",
+    "correct_phrase": "اتباع",
+    "explanation": "برای اشاره به چند فرد، جمع «اتباع» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "طپانچهٔ آموزشی برای نمایش سازوکار ایمنی بررسی شد.",
+    "correct_text": "تپانچهٔ آموزشی برای نمایش سازوکار ایمنی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طپانچه",
+    "correct_phrase": "تپانچه",
+    "explanation": "املای معیار این واژه «تپانچه» با حرف «ت» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر داده‌ها را گردآوری کرد، طبقه‌بندی کرد، تحلیل کرد و گزارش کرد.",
+    "correct_text": "پژوهشگر داده‌ها را گردآوری، طبقه‌بندی و تحلیل کرد و گزارش آن را نوشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تتابع افعال",
+    "correct_phrase": "پرهیز از ردیف کردن افعال",
+    "explanation": "ردیف‌کردن چند فعل متوالی، جمله را طولانی و نامفهوم می‌کند.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
