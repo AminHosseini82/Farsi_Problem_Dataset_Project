@@ -20403,5 +20403,38 @@
     "explanation": "ضمیر «شما» خود جمع است و به «ها» نیاز ندارد.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "گزارشات نهایی پروژه برای داوران ارسال شدند.",
+    "correct_text": "گزارش‌های نهایی پروژه برای داوران ارسال شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "گزارشات",
+    "correct_phrase": "گزارش‌ها",
+    "explanation": "واژهٔ فارسی «گزارش» با «ها» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کارخانجات صنعتی منطقه از نظر مصرف انرژی ارزیابی شدند.",
+    "correct_text": "کارخانه‌های صنعتی منطقه از نظر مصرف انرژی ارزیابی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "کارخانجات",
+    "correct_phrase": "کارخانه‌ها",
+    "explanation": "واژهٔ فارسی «کارخانه» با «ها» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "امورات اجرایی طرح باید پیش از آغاز پژوهش مشخص شوند.",
+    "correct_text": "امور اجرایی طرح باید پیش از آغاز پژوهش مشخص شوند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "امورات",
+    "correct_phrase": "امور",
+    "explanation": "«امور» خود صورت جمع است و «ات» نمی‌گیرد.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
