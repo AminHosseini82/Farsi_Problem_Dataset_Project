@@ -19930,5 +19930,115 @@
     "explanation": "نام کتاب مقدس یهودیان با تاء معمولی نوشته می‌شود و کاربرد طاء غلط املایی است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشجویان برای رفع نواقص پروژه، بخش‌های ناقص را تکمیل کردند.",
+    "correct_text": "دانشجویان برای تکمیل نواقص پروژه، بخش‌های ناقص را تکمیل کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "رفع نواقص",
+    "correct_phrase": "تکمیل نواقص",
+    "explanation": "«نواقص» به امور ناتمام اشاره دارد و تکمیل می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این رفتار به عنوان تخلف تلقی شد.",
+    "correct_text": "این رفتار تخلف تلقی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "تلقی کردن به عنوان",
+    "correct_phrase": "تلقی کردن",
+    "explanation": "پس از «تلقی کردن»، ترکیب «به عنوان» زائد است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تلگرافات قدیمی در آرشیو تاریخی دانشگاه نگهداری می‌شوند.",
+    "correct_text": "تلگراف‌های قدیمی در آرشیو تاریخی دانشگاه نگهداری می‌شوند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "تلگرافات",
+    "correct_phrase": "تلگراف‌ها",
+    "explanation": "واژهٔ «تلگراف» باید با نشانهٔ جمع فارسی جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تلفنات اداری در فرایند ارتباطات سازمانی ثبت شدند.",
+    "correct_text": "تلفن‌های اداری در فرایند ارتباطات سازمانی ثبت شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "تلفنات",
+    "correct_phrase": "تلفن‌ها",
+    "explanation": "واژهٔ «تلفن» باید با نشانهٔ جمع فارسی جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تمشگ‌های منطقه از نظر ترکیبات دارویی بررسی شدند.",
+    "correct_text": "تمشک‌های منطقه از نظر ترکیبات دارویی بررسی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "تمشگ",
+    "correct_phrase": "تمشک",
+    "explanation": "املای معیار این واژه «تمشک» با حرف «ک» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نمونه‌های تمباکو از نظر میزان نیکوتین تحلیل شدند.",
+    "correct_text": "نمونه‌های تنباکو از نظر میزان نیکوتین تحلیل شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "تمباکو",
+    "correct_phrase": "تنباکو",
+    "explanation": "املای معیار این واژه «تنباکو» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "طوطیا در ترکیبات دارویی سنتی بررسی شد.",
+    "correct_text": "توتیا در ترکیبات دارویی سنتی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طوطیا",
+    "correct_phrase": "توتیا",
+    "explanation": "املای معیار این واژه «توتیا» با حرف «ت» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌ها را در جدول نهایی ثبت کنید.",
+    "correct_text": "داده‌ها را در جدول نهایی ثبت کنید.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "تورا",
+    "correct_phrase": "تو را",
+    "explanation": "نشانهٔ مفعولی «را» باید جدا از ضمیر نوشته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌ها تورو در جدول نهایی ثبت کنید.",
+    "correct_text": "داده‌ها تو را در جدول نهایی ثبت کنید.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "تورو",
+    "correct_phrase": "تو را",
+    "explanation": "نشانهٔ مفعولی «را» باید جدا از ضمیر نوشته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "طورات از متون دینی مهم در مطالعات تطبیقی است.",
+    "correct_text": "تورات از متون دینی مهم در مطالعات تطبیقی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "طورات",
+    "correct_phrase": "تورات",
+    "explanation": "نام این کتاب «تورات» با حرف «ت» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
