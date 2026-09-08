@@ -19283,17 +19283,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "بیشتری دانشجویان در آزمون پایانی نمرهٔ قابل‌قبولی کسب کردند.",
-    "correct_text": "بیشتر یا اکثر دانشجویان در آزمون پایانی نمرهٔ قابل‌قبولی کسب کردند.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "بیشتری",
-    "correct_phrase": "بیشتر / اکثر",
-    "explanation": "«بیشتری» پیش از اسم به‌کار نمی‌رود؛ «بیشتر» یا «اکثر» درست است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "گزارش پژوهش باید بی‌شایبه و مبتنی بر شواهد باشد.",
     "correct_text": "گزارش پژوهش باید بی‌شائبه و مبتنی بر شواهد باشد.",
     "error_category": "اشکالات املایی و واژگانی",
@@ -19301,17 +19290,6 @@
     "incorrect_phrase": "بی‌شایبه",
     "correct_phrase": "بی‌شائبه",
     "explanation": "واژهٔ عربی «شائبه» با همزهٔ میانی نوشته می‌شود.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "این روش برای اجرای آزمایش‌های پرهزینه بی‌نیاز به تجهیزات پیشرفته نیست.",
-    "correct_text": "این روش برای اجرای آزمایش‌های پرهزینه بی‌نیاز از تجهیزات پیشرفته نیست.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "بی‌نیاز به",
-    "correct_phrase": "بی‌نیاز از",
-    "explanation": "صفت «بی‌نیاز» با حرف اضافهٔ «از» به‌کار می‌رود.",
     "text_domain": "academic",
     "language": "Persian"
   },
@@ -19367,28 +19345,6 @@
     "incorrect_phrase": "پرتقال",
     "correct_phrase": "پرتغال",
     "explanation": "«پرتغال» نام کشور است؛ «پرتقال» نام میوه است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "پیرامون روش نمونه‌گیری، چند دیدگاه متفاوت مطرح شده است.",
-    "correct_text": "درباره یا راجع به روش نمونه‌گیری، چند دیدگاه متفاوت مطرح شده است.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "پیرامون",
-    "correct_phrase": "درباره / راجع به",
-    "explanation": "«پیرامون» معنای اطراف دارد؛ برای موضوع، «درباره» مناسب است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "پیشانی‌نوشت افراد در نظریه‌های عامه‌پسند قطعی فرض می‌شود.",
-    "correct_text": "سرنوشت یا تقدیر افراد در نظریه‌های عامه‌پسند قطعی فرض می‌شود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "پیشانی‌نوشت",
-    "correct_phrase": "سرنوشت / تقدیر",
-    "explanation": "«پیشانی‌نوشت» گرته‌برداری است؛ «سرنوشت» یا «تقدیر» معیار است.",
     "text_domain": "academic",
     "language": "Persian"
   },
