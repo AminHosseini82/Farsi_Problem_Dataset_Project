@@ -18082,5 +18082,181 @@
     "explanation": "نام این تمدن باستانی عیلام است و نباید با ایلام که نام استانی در غرب ایران است جایگزین گردد.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشجویان باید اصول املاء فارسی را در نگارش مقاله رعایت کنند.",
+    "correct_text": "دانشجویان باید اصول املا فارسی را در نگارش مقاله رعایت کنند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ پایانی",
+    "incorrect_phrase": "املاء",
+    "correct_phrase": "املا",
+    "explanation": "واژهٔ فارسی «املا» به همزهٔ پایانی نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "آموزش املأ فارسی در دورهٔ مهارت‌های نگارشی ارائه شد.",
+    "correct_text": "آموزش املا فارسی در دورهٔ مهارت‌های نگارشی ارائه شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "خطای همزهٔ پایانی",
+    "incorrect_phrase": "املأ",
+    "correct_phrase": "املا",
+    "explanation": "واژهٔ فارسی «املا» به همزهٔ پایانی نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌های اقتصادی امریکا در تحلیل بازارهای جهانی بررسی شدند.",
+    "correct_text": "داده‌های اقتصادی آمریکا در تحلیل بازارهای جهانی بررسی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "امریکا",
+    "correct_phrase": "آمریکا",
+    "explanation": "نام «آمریکا» با الف ممدود نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "امیال دانشجویان در انتخاب رشتهٔ تحصیلی بررسی شد.",
+    "correct_text": "میل‌های دانشجویان در انتخاب رشتهٔ تحصیلی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "امیال",
+    "correct_phrase": "میل‌ها",
+    "explanation": "«امیال» جمع عربیِ واحد مسافت است؛ برای خواسته‌ها «میل‌ها» مناسب است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "امیال دانشجویان در انتخاب رشتهٔ تحصیلی بررسی شد.",
+    "correct_text": "هوس‌های دانشجویان در انتخاب رشتهٔ تحصیلی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "امیال",
+    "correct_phrase": "هوس‌ها",
+    "explanation": "«امیال» جمع عربیِ واحد مسافت است؛ برای خواسته‌ها «هوس‌ها» مناسب است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انتصاب مقاله به نویسندهٔ اصلی بر اساس شواهد متنی انجام شد.",
+    "correct_text": "انتساب مقاله به نویسندهٔ اصلی بر اساس شواهد متنی انجام شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انتصاب",
+    "correct_phrase": "انتساب",
+    "explanation": "«انتساب» به معنای نسبت‌دادن است؛ «انتصاب» به معنای گماشتن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انتساب مدیر جدید پژوهشکده با حکم رئیس دانشگاه انجام شد.",
+    "correct_text": "انتصاب مدیر جدید پژوهشکده با حکم رئیس دانشگاه انجام شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انتساب",
+    "correct_phrase": "انتصاب",
+    "explanation": "«انتصاب» به معنای گماشتن است؛ «انتساب» به معنای نسبت‌دادن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران انتظار رفتنِ نتایج آزمایش را تا پایان هفته داشتند.",
+    "correct_text": "پژوهشگران انتظار داشتنِ نتایج آزمایش را تا پایان هفته داشتند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انتظار رفتن",
+    "correct_phrase": "انتظار داشتن",
+    "explanation": "ترکیب معیار در فارسی «انتظار داشتن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اندام شرکت‌کنندگان پیش از آغاز مطالعه اندازه‌گیری شد.",
+    "correct_text": "قد شرکت‌کنندگان پیش از آغاز مطالعه اندازه‌گیری شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اندام",
+    "correct_phrase": "قد",
+    "explanation": "«اندام» به معنای عضو بدن است؛ برای ارتفاع بدن «قد» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اندام شرکت‌کنندگان پیش از آغاز مطالعه اندازه‌گیری شد.",
+    "correct_text": "قامت شرکت‌کنندگان پیش از آغاز مطالعه اندازه‌گیری شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اندام",
+    "correct_phrase": "قامت",
+    "explanation": "«اندام» به معنای عضو بدن است؛ برای ارتفاع بدن «قامت» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر اندیشناک نظریه‌ای تازه دربارهٔ یادگیری ارائه کرد.",
+    "correct_text": "پژوهشگر اندیشمند نظریه‌ای تازه دربارهٔ یادگیری ارائه کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اندیشناک",
+    "correct_phrase": "اندیشمند",
+    "explanation": "«اندیشمند» به معنای متفکر است؛ «اندیشناک» به معنای نگران است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر اندیشمند از پیامدهای اخلاقیِ طرح نگران بود.",
+    "correct_text": "پژوهشگر اندیشناک از پیامدهای اخلاقیِ طرح نگران بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اندیشمند",
+    "correct_phrase": "اندیشناک",
+    "explanation": "«اندیشناک» به معنای نگران است؛ «اندیشمند» به معنای متفکر است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انسانیت در دهه‌های اخیر با مسئلهٔ تغییر اقلیم روبه‌رو شده است.",
+    "correct_text": "بشریت در دهه‌های اخیر با مسئلهٔ تغییر اقلیم روبه‌رو شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انسانیت",
+    "correct_phrase": "بشریت",
+    "explanation": "«بشریت» به همهٔ انسان‌ها اشاره دارد؛ «انسانیت» به معنای اخلاق انسانی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انسانیت در دهه‌های اخیر با مسئلهٔ تغییر اقلیم روبه‌رو شده است.",
+    "correct_text": "بشر در دهه‌های اخیر با مسئلهٔ تغییر اقلیم روبه‌رو شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انسانیت",
+    "correct_phrase": "بشر",
+    "explanation": "«بشر» به مجموعهٔ انسان‌ها اشاره دارد؛ «انسانیت» به معنای اخلاق انسانی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشگاه برای پژوهشگران برگزیده انعام علمی در نظر گرفت.",
+    "correct_text": "دانشگاه برای پژوهشگران برگزیده اِنعام علمی در نظر گرفت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "حرکت‌گذاری نادرست یا غیرضروری",
+    "incorrect_phrase": "اَنعام",
+    "correct_phrase": "اِنعام",
+    "explanation": "«اِنعام» به معنای بخشش است؛ «اَنعام» جمعِ نَعَم و به معنای چهارپایان است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ایلام از تمدن‌های کهنِ فلات ایران به شمار می‌آید.",
+    "correct_text": "عیلام از تمدن‌های کهنِ فلات ایران به شمار می‌آید.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "ایلام",
+    "correct_phrase": "عیلام",
+    "explanation": "نام تمدن باستانی «عیلام» با حرف «ع» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
