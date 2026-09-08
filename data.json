@@ -18885,5 +18885,203 @@
     "explanation": "قید «به‌زودی» با نیم‌فاصله نوشته می‌شود.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخش میانی گیاه در منابع محلی با نام بنچوچه ثبت شده است.",
+    "correct_text": "بخش میانی گیاه در منابع محلی با نام بنجوخه ثبت شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بنچوچه",
+    "correct_phrase": "بنجوخه",
+    "explanation": "صورت درست این واژه «بنجوخه» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتایج بنختصر در جدول پایانی گزارش ارائه شده‌اند.",
+    "correct_text": "نتایج به‌اختصار یا مختصراً در جدول پایانی گزارش ارائه شده‌اند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بنختصر",
+    "correct_phrase": "به‌اختصار / مختصراً",
+    "explanation": "«بنختصر» عامیانه است؛ «به‌اختصار» یا «مختصراً» معیار است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بداعت این نظریه در مقایسه با پژوهش‌های پیشین بررسی شد.",
+    "correct_text": "بدایت این نظریه در مقایسه با پژوهش‌های پیشین بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بداعت",
+    "correct_phrase": "بدایت",
+    "explanation": "در این معنا، صورت درست واژه «بدایت» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بدبختانه، بخشی از داده‌های خام پژوهش از بین رفتند.",
+    "correct_text": "متأسفانه، بخشی از داده‌های خام پژوهش از بین رفتند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بدبختانه",
+    "correct_phrase": "متأسفانه",
+    "explanation": "برای قید جمله، «متأسفانه» صورت معیار و رسمی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "مطمئناً، اجرای این روش دقت اندازه‌گیری را افزایش می‌دهد.",
+    "correct_text": "مسلماً، اجرای این روش دقت اندازه‌گیری را افزایش می‌دهد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "مطمئناً",
+    "correct_phrase": "مسلماً / بی‌گمان",
+    "explanation": "در نقش قید جمله، «مسلماً» یا «بی‌گمان» مناسب‌تر است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بدعت‌گزاران علمی با روش‌های نو، مسیر پژوهش را تغییر می‌دهند.",
+    "correct_text": "بدعت‌گذاران علمی با روش‌های نو، مسیر پژوهش را تغییر می‌دهند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بدعت‌گزار",
+    "correct_phrase": "بدعت‌گذار",
+    "explanation": "این واژه از «گذاشتن» ساخته شده و با «ذ» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "زندگی بدوی در جوامع صحراگرد بر پایهٔ کوچ‌نشینی استوار بوده است.",
+    "correct_text": "زندگی بَدَوی در جوامع صحراگرد بر پایهٔ کوچ‌نشینی استوار بوده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "حرکت‌گذاری نادرست یا غیرضروری",
+    "incorrect_phrase": "بدوی",
+    "correct_phrase": "بَدَوی",
+    "explanation": "«بَدَوی» به معنای منسوب به بادیه و صحرا است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بر اثر کمبود داده‌های معتبر، امکان نتیجه‌گیری قطعی فراهم نشد.",
+    "correct_text": "به علت کمبود داده‌های معتبر، امکان نتیجه‌گیری قطعی فراهم نشد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بر اثر",
+    "correct_phrase": "به علت / در اثر",
+    "explanation": "برای بیان علت، «به علت» یا «در اثر» مناسب‌تر است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برائت پژوهشگر از اتهام دست‌کاری داده‌ها اثبات شد.",
+    "correct_text": "برائت پژوهشگر از اتهام دست‌کاری داده‌ها اثبات شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "براعت",
+    "correct_phrase": "برائت",
+    "explanation": "«برائت» به معنای پاکی از اتهام است؛ «براعت» معنای مهارت دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برای شروع، متغیرهای اصلی پژوهش تعریف می‌شوند.",
+    "correct_text": "در آغاز یا نخست، متغیرهای اصلی پژوهش تعریف می‌شوند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "برای شروع",
+    "correct_phrase": "در آغاز / نخست",
+    "explanation": "«برای شروع» گرته‌برداری است؛ «در آغاز» یا «نخست» معیار است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این نظریه برای همیشه در ادبیات علمی باقی خواهد ماند.",
+    "correct_text": "این نظریه همواره یا جاودانه در ادبیات علمی باقی خواهد ماند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "برای همیشه",
+    "correct_phrase": "همواره / جاودانه",
+    "explanation": "«برای همیشه» گرته‌برداری است؛ «همواره» یا «جاودانه» مناسب‌تر است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برخوردار بودن از ضعف حافظه، عملکرد یادگیری را کاهش می‌دهد.",
+    "correct_text": "مبتلا بودن به ضعف حافظه، عملکرد یادگیری را کاهش می‌دهد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "برخوردار بودن از ضعف",
+    "correct_phrase": "مبتلا بودن به / داشتن",
+    "explanation": "«برخوردار بودن» برای امور مثبت است؛ برای ضعف «مبتلا بودن» یا «داشتن» به‌کار می‌رود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این روش برعلیه اصول پذیرفته‌شدهٔ پژوهش علمی است.",
+    "correct_text": "این روش علیه اصول پذیرفته‌شدهٔ پژوهش علمی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "برعلیه",
+    "correct_phrase": "علیه",
+    "explanation": "واژهٔ «علیه» خود معنای «بر ضد» دارد و «بر» زائد است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشکده نشست علمی سالانه را برگزار کرد.",
+    "correct_text": "دانشکده نشست علمی سالانه را برقرار کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "برگذار کردن",
+    "correct_phrase": "برگزار کردن",
+    "explanation": "فعل درست به معنای اجراکردن «برگزار کردن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برحه‌ای از زمان برای بازبینی داده‌ها در نظر گرفته شد.",
+    "correct_text": "برهه‌ای از زمان برای بازبینی داده‌ها در نظر گرفته شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "برحه",
+    "correct_phrase": "برهه",
+    "explanation": "صورت درست این واژه «برهه» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتایج تحلیل بهرودی در سامانهٔ پژوهشی ثبت خواهند شد.",
+    "correct_text": "نتایج تحلیل به‌زودی در سامانهٔ پژوهشی ثبت خواهند شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بهرودی",
+    "correct_phrase": "به‌زودی",
+    "explanation": "قید «به‌زودی» با نیم‌فاصله نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پذیرش مقاله بستگی به تأیید داوران دارد.",
+    "correct_text": "پذیرش مقاله منوط به تأیید داوران است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بستگی داشتن",
+    "correct_phrase": "منوط بودن / وابسته بودن",
+    "explanation": "برای بیان مشروط‌بودن، «منوط بودن» یا «وابسته بودن» مناسب‌تر است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "گزارش رسمی پژوهش با عبارت بسمه تعالی آغاز شد.",
+    "correct_text": "گزارش رسمی پژوهش با عبارت باسمه تعالی آغاز شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بسمه تعالی",
+    "correct_phrase": "باسمه تعالی",
+    "explanation": "صورت درست نگارش این عبارت «باسمه تعالی» است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
