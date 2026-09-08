@@ -17851,5 +17851,148 @@
     "explanation": "صورت درست این واژه «بنجوچه» با حرف «ج» است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "اکثراً نتایج به‌دست‌آمده با فرضیهٔ اصلی پژوهش سازگار بودند.",
+    "correct_text": "غالباً نتایج به‌دست‌آمده با فرضیهٔ اصلی پژوهش سازگار بودند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "اکثراً",
+    "correct_phrase": "غالباً",
+    "explanation": "«اکثراً» در فارسی معیار کاربرد فصیح ندارد؛ «غالباً» مناسب است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اگر چنانچه داده‌های تکمیلی دریافت شود، تحلیل آماری تکرار خواهد شد.",
+    "correct_text": "اگر داده‌های تکمیلی دریافت شود، تحلیل آماری تکرار خواهد شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "اگر چنانچه",
+    "correct_phrase": "اگر",
+    "explanation": "«اگر» و «چنانچه» هم‌معنا هستند و کاربرد هم‌زمان آن‌ها زائد است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کمیتهٔ علمی می‌تواند مصوبهٔ پیشین را القا کند.",
+    "correct_text": "کمیتهٔ علمی می‌تواند مصوبهٔ پیشین را الغا کند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "القا",
+    "correct_phrase": "الغا",
+    "explanation": "«الغا» به معنای باطل‌کردن است؛ «القا» معنای دیگری دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر امانتگزار موظف است منابع مورد استفاده را دقیق ذکر کند.",
+    "correct_text": "پژوهشگر امانت‌گذار موظف است منابع مورد استفاده را دقیق ذکر کند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "امانتگزار",
+    "correct_phrase": "امانت‌گذار",
+    "explanation": "این ترکیب با «گذار» و نیم‌فاصله نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "امپراطور در ساختار سیاسیِ حکومت‌های کهن اختیارات گسترده‌ای داشت.",
+    "correct_text": "امپراتور در ساختار سیاسیِ حکومت‌های کهن اختیارات گسترده‌ای داشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "امپراطور",
+    "correct_phrase": "امپراتور",
+    "explanation": "صورت معیار این واژه «امپراتور» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برنامه‌های سوادآموزی برای حمایت از افراد عمی طراحی شدند.",
+    "correct_text": "برنامه‌های سوادآموزی برای حمایت از افراد آمی طراحی شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "عمی",
+    "correct_phrase": "آمی",
+    "explanation": "«آمی» به معنای درس‌نخوانده است؛ «عمی» معنای نابینا دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "انسانیت در بحران‌های جهانی به همکاری و مسئولیت‌پذیری نیاز دارد.",
+    "correct_text": "بشریت در بحران‌های جهانی به همکاری و مسئولیت‌پذیری نیاز دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "انسانیت",
+    "correct_phrase": "بشریت",
+    "explanation": "«بشریت» به همهٔ انسان‌ها اشاره دارد؛ «انسانیت» صفت اخلاقی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "با این وجود، نتایج آزمایش نیازمند بررسی‌های بیشتر هستند.",
+    "correct_text": "با وجود این، نتایج آزمایش نیازمند بررسی‌های بیشتر هستند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "با این وجود",
+    "correct_phrase": "با وجود این",
+    "explanation": "ترکیب فصیح و معیار «با وجود این» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نمونه‌های خاک از باطلاق‌های منطقه برای تحلیل زیست‌محیطی برداشت شدند.",
+    "correct_text": "نمونه‌های خاک از باتلاق‌های منطقه برای تحلیل زیست‌محیطی برداشت شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "باطلاق",
+    "correct_phrase": "باتلاق",
+    "explanation": "صورت درست این واژهٔ ترکی «باتلاق» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بازرسین دانشگاه فرایند اجرای آیین‌نامه را ارزیابی کردند.",
+    "correct_text": "بازرسان دانشگاه فرایند اجرای آیین‌نامه را ارزیابی کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "بازرسین",
+    "correct_phrase": "بازرسان",
+    "explanation": "واژهٔ فارسی «بازرس» با «ان» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "گزارش رسمی پژوهش با عبارت بسمه تعالی آغاز شد.",
+    "correct_text": "گزارش رسمی پژوهش با عبارت باسمه تعالی آغاز شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بسمه تعالی",
+    "correct_phrase": "باسمه تعالی",
+    "explanation": "صورت درست نگارش این عبارت «باسمه تعالی» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "باغات پیرامون شهر در کاهش آلودگی هوا مؤثر هستند.",
+    "correct_text": "باغ‌ها پیرامون شهر در کاهش آلودگی هوا مؤثر هستند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "باغات",
+    "correct_phrase": "باغ‌ها",
+    "explanation": "واژهٔ فارسی «باغ» با «ها» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخش میانی گیاه در منابع محلی با نام بنچوچه شناخته می‌شود.",
+    "correct_text": "بخش میانی گیاه در منابع محلی با نام بنجوخه شناخته می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بنچوچه",
+    "correct_phrase": "بنجوخه",
+    "explanation": "صورت درست این واژه «بنجوخه» است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
