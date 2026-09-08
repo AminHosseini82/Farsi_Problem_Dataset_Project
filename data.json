@@ -18478,5 +18478,159 @@
     "explanation": "صورت درست این واژه «بنجوچه» با حرف «ج» است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "در پژوهش‌های جمعیت‌شناسی، وضعیت عهد و عیال خانوارها بررسی شد.",
+    "correct_text": "در پژوهش‌های جمعیت‌شناسی، وضعیت اهل و عیال خانوارها بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "عهد و عیال",
+    "correct_phrase": "اهل و عیال",
+    "explanation": "ترکیب درست برای زن و فرزند «اهل و عیال» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اینجانبه مسئولیت گردآوری داده‌های پژوهش را بر عهده داشتم.",
+    "correct_text": "اینجانب مسئولیت گردآوری داده‌های پژوهش را بر عهده داشتم.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "تنوین‌گذاری واژهٔ فارسی",
+    "incorrect_phrase": "اینجانبه",
+    "correct_phrase": "اینجانب",
+    "explanation": "واژهٔ فارسی «اینجانب» تنوین نمی‌گیرد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "با این وجود، اعتبار نتایج به انجام آزمون‌های تکمیلی وابسته است.",
+    "correct_text": "با وجود این، اعتبار نتایج به انجام آزمون‌های تکمیلی وابسته است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "با این وجود",
+    "correct_phrase": "با وجود این",
+    "explanation": "ترکیب فصیح و معیار «با وجود این» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "باطری دستگاه ثبت داده پیش از اجرای آزمایش تعویض شد.",
+    "correct_text": "باتری دستگاه ثبت داده پیش از اجرای آزمایش تعویض شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "باطری",
+    "correct_phrase": "باتری",
+    "explanation": "این واژهٔ فرنگی در فارسی با «ت» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پوشش گیاهی باطلاق‌های منطقه برای ارزیابی تنوع زیستی مطالعه شد.",
+    "correct_text": "پوشش گیاهی باتلاق‌های منطقه برای ارزیابی تنوع زیستی مطالعه شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "باطلاق",
+    "correct_phrase": "باتلاق",
+    "explanation": "صورت درست این واژهٔ ترکی «باتلاق» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بادمجان در الگوی مصرف غذاییِ خانوارهای روستایی بررسی شد.",
+    "correct_text": "بادنجان در الگوی مصرف غذاییِ خانوارهای روستایی بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بادمجان",
+    "correct_phrase": "بادنجان",
+    "explanation": "صورت فصیح این واژه در متون کهن «بادنجان» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بازرسین دانشگاه فرایند اجرای مقررات آموزشی را ارزیابی کردند.",
+    "correct_text": "بازرسان دانشگاه فرایند اجرای مقررات آموزشی را ارزیابی کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "بازرسین",
+    "correct_phrase": "بازرسان",
+    "explanation": "واژهٔ فارسی «بازرس» با «ان» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بقایات و صالحات در متون دینی به کارهای نیک و پایدار اشاره دارد.",
+    "correct_text": "باقیات صالحات در متون دینی به کارهای نیک و پایدار اشاره دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بقایات و صالحات",
+    "correct_phrase": "باقیات صالحات",
+    "explanation": "ترکیب درست «باقیات صالحات» بدون حرف عطف نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "صفحهٔ آغازین گزارش با عبارت بسمه تعالی تنظیم شد.",
+    "correct_text": "صفحهٔ آغازین گزارش با عبارت باسمه تعالی تنظیم شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "بسمه تعالی",
+    "correct_phrase": "باسمه تعالی",
+    "explanation": "صورت درست نگارش این عبارت «باسمه تعالی» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "باغات پیرامون شهر در کاهش دمای محیط نقش دارند.",
+    "correct_text": "باغ‌ها پیرامون شهر در کاهش دمای محیط نقش دارند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "باغات",
+    "correct_phrase": "باغ‌ها",
+    "explanation": "واژهٔ فارسی «باغ» با «ها» جمع بسته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بلاخره نتایج نهایی پژوهش پس از اصلاح داده‌ها منتشر شدند.",
+    "correct_text": "بالاخره نتایج نهایی پژوهش پس از اصلاح داده‌ها منتشر شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بلاخره",
+    "correct_phrase": "بالاخره",
+    "explanation": "این واژه در فارسی با الف پس از «ب» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران باید به اعتبار داده‌های گردآوری‌شده باور داشته باشند.",
+    "correct_text": "پژوهشگران باید اعتبار داده‌های گردآوری‌شده را باور داشته باشند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "باور داشتن به",
+    "correct_phrase": "باور داشتن",
+    "explanation": "فعل «باور داشتن» متعدیِ بی‌واسطه است و «به» نمی‌خواهد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخش میانی گیاه در منابع محلی با نام بنچوچه معرفی شده است.",
+    "correct_text": "بخش میانی گیاه در منابع محلی با نام بنجوخه معرفی شده است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "بنچوچه",
+    "correct_phrase": "بنجوخه",
+    "explanation": "صورت درست این واژه «بنجوخه» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هیئت داوری پس از بررسی درخواست، خطای پژوهشگر را بخشید.",
+    "correct_text": "هیئت داوری پس از بررسی درخواست، خطای پژوهشگر را بخشود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "بخشیدن",
+    "correct_phrase": "بخشودن",
+    "explanation": "«بخشودن» به معنای عفوکردن است؛ «بخشیدن» معنای عطاکردن دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
