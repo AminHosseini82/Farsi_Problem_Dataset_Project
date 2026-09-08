@@ -18216,28 +18216,6 @@
     "language": "Persian"
   },
   {
-    "incorrect_text": "اندیشمند از نتایج متناقض پژوهش نگران بود.",
-    "correct_text": "اندیشناک از نتایج متناقض پژوهش نگران بود.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "اندیشمند",
-    "correct_phrase": "اندیشناک",
-    "explanation": "«اندیشناک» به معنای مضطرب و نگران است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "انسانیت برای مقابله با بحران‌های جهانی به همکاری نیاز دارد.",
-    "correct_text": "بشریت برای مقابله با بحران‌های جهانی به همکاری نیاز دارد.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
-    "incorrect_phrase": "انسانیت",
-    "correct_phrase": "بشریت / بشر",
-    "explanation": "«بشریت» به مجموعهٔ انسان‌ها اشاره دارد؛ «انسانیت» صفت اخلاقی است.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
     "incorrect_text": "در این متن، اَنعام به معنای بخشش و نیکوکاری به‌کار رفته است.",
     "correct_text": "در این متن، اِنعام به معنای بخشش و نیکوکاری به‌کار رفته است.",
     "error_category": "اشکالات املایی و واژگانی",
@@ -18245,17 +18223,6 @@
     "incorrect_phrase": "اَنعام",
     "correct_phrase": "اِنعام",
     "explanation": "«اِنعام» به معنای بخشش است؛ «اَنعام» به چهارپایان اشاره دارد.",
-    "text_domain": "academic",
-    "language": "Persian"
-  },
-  {
-    "incorrect_text": "ایلام یکی از تمدن‌های مهم ایران باستان به‌شمار می‌آید.",
-    "correct_text": "عیلام یکی از تمدن‌های مهم ایران باستان به‌شمار می‌آید.",
-    "error_category": "اشکالات املایی و واژگانی",
-    "error_subcategory": "غلط املایی متداول",
-    "incorrect_phrase": "ایلام",
-    "correct_phrase": "عیلام",
-    "explanation": "نام سلسلهٔ تاریخی ایران باستان «عیلام» نوشته می‌شود.",
     "text_domain": "academic",
     "language": "Persian"
   }
