@@ -21041,5 +21041,38 @@
     "explanation": "واژهٔ فارسی «داور» باید با نشانهٔ جمع فارسی جمع بسته شود.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "پس از اعلام نتایج، دانشجویان از جای خود خواستند.",
+    "correct_text": "پس از اعلام نتایج، دانشجویان از جای خود خاستند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "خواستن",
+    "correct_phrase": "خاستن",
+    "explanation": "«خاستن» به معنای بلندشدن است؛ «خواستن» معنای میل و طلب دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهش حاضر، پیامدهای اجتماعیِ خارشمردن گروه‌های آسیب‌پذیر را تحلیل می‌کند.",
+    "correct_text": "پژوهش حاضر، پیامدهای اجتماعیِ خوارشمردن گروه‌های آسیب‌پذیر را تحلیل می‌کند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "خار",
+    "correct_phrase": "خوار",
+    "explanation": "«خوار» به معنای ذلیل است؛ «خار» به گیاه تیغ‌دار گفته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "شرکت‌کنندگان پس از دریافت بازخورد مثبت، از نتایج کارگاه خوشنود بودند.",
+    "correct_text": "شرکت‌کنندگان پس از دریافت بازخورد مثبت، از نتایج کارگاه خشنود بودند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "خوشنود",
+    "correct_phrase": "خشنود",
+    "explanation": "صورت فصیح این واژه «خشنود» است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
