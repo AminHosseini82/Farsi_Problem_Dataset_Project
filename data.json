@@ -20634,5 +20634,49 @@
     "explanation": "کلمه «حدس» با سین به معنای گمان است، اما «حدث» با ثاء به معنای اتفاق و پدیده نو است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "هابل در متون قدیمی به معنای صیاد به‌کار رفته است.",
+    "correct_text": "حابل در متون قدیمی به معنای صیاد به‌کار رفته است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "هابل",
+    "correct_phrase": "حابل",
+    "explanation": "«حابل» با حرف «ح» به معنای صیاد است؛ «هابل» نام تاریخی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هايل میان دو جراحی در اتاق عمل نصب شد.",
+    "correct_text": "حایل میان دو جراحی در اتاق عمل نصب شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "هايل",
+    "correct_phrase": "حایل",
+    "explanation": "«حایل» به معنای پرده و مانع است؛ «هایل» معنای ترسناک دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حدث نتایج پژوهش با داده‌های میدانی سازگار بود.",
+    "correct_text": "حدس نتایج پژوهش با داده‌های میدانی سازگار بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حدث",
+    "correct_phrase": "حدس",
+    "explanation": "«حدس» به معنای گمان است؛ «حدث» معنای اتفاق دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هراج آثار هنری در تالار اصلی دانشگاه برگزار شد.",
+    "correct_text": "حراج آثار هنری در تالار اصلی دانشگاه برگزار شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "هراج",
+    "correct_phrase": "حراج",
+    "explanation": "واژهٔ «حراج» با حرف «ح» نوشته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
