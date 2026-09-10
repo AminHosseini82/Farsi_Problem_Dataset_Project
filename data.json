@@ -20876,5 +20876,71 @@
     "explanation": "نام تاریخی این شهر «ختن» است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "حروف‌ها به‌کاررفته در اصطلاحات تخصصیِ مقاله، از نظر بسامد تحلیل شدند.",
+    "correct_text": "حروف به‌کاررفته در اصطلاحات تخصصیِ مقاله، از نظر بسامد تحلیل شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "حروف‌ها",
+    "correct_phrase": "حروف",
+    "explanation": "«حروف» خود جمع مکسر است و دوباره جمع بسته نمی‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در اسطوره‌شناسی تطبیقی، هور نماد زیباییِ بهشتی تلقی می‌شود.",
+    "correct_text": "در اسطوره‌شناسی تطبیقی، حور نماد زیباییِ بهشتی تلقی می‌شود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "هور",
+    "correct_phrase": "حور",
+    "explanation": "«حور» به زیبای اشاره دارد؛ «هور» به معنای خورشید است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حوزهٔ آبریز کارون در تحلیل منابع آبیِ جنوب غربی ایران بررسی شد.",
+    "correct_text": "حوضهٔ آبریز کارون در تحلیل منابع آبیِ جنوب غربی ایران بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حوزه",
+    "correct_phrase": "حوضه",
+    "explanation": "«حوضه» به پهنهٔ آبریز اشاره دارد؛ «حوزه» معنای قلمرو دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر برای تکمیل فرایند کدگذاری داده‌ها حوصله کرد.",
+    "correct_text": "پژوهشگر برای تکمیل فرایند کدگذاری داده‌ها حوصله داشت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حوصله کردن",
+    "correct_phrase": "حوصله داشت",
+    "explanation": "ترکیب درست «حوصله داشتن» یا «صبوری کردن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هوله‌های آزمایشگاهی پیش از شروع نمونه‌برداری استریل شدند.",
+    "correct_text": "حوله‌های آزمایشگاهی پیش از شروع نمونه‌برداری استریل شدند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "هوله",
+    "correct_phrase": "حوله",
+    "explanation": "املای درست این واژه «حوله» با حرف «ح» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حیاط جانوری در زیست‌بوم‌های خشک، به منابع آب وابستگی زیادی دارد.",
+    "correct_text": "حیات جانوری در زیست‌بوم‌های خشک، به منابع آب وابستگی زیادی دارد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حیاط",
+    "correct_phrase": "حیات",
+    "explanation": "«حیات» به معنای زندگی است؛ «حیاط» به صحن خانه اشاره دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
