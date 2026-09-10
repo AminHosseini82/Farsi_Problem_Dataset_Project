@@ -20997,5 +20997,49 @@
     "explanation": "عبارت «در مقابل» بیشتر در ابعاد فیزیکی کاربرد دارد و برای مفهوم تاوان و پرداخت باید از «در قبال» استفاده کرد.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر پس از پایان نشست از جای خود خواست.",
+    "correct_text": "پژوهشگر پس از پایان نشست از جای خود خاست.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "خواستن",
+    "correct_phrase": "خاستن",
+    "explanation": "«خاستن» به معنای بلندشدن است؛ «خواستن» به معنای طلب‌کردن است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این جانور خار است و از بقایای گیاهی تغذیه می‌کند.",
+    "correct_text": "این جانور خوار است و از بقایای گیاهی تغذیه می‌کند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "خار",
+    "correct_phrase": "خوار",
+    "explanation": "«خوار» به معنای خورنده است؛ «خار» به معنای تیغ گیاه است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتایج اولیهٔ پژوهش برای گروه داوری خوشنودکننده بود.",
+    "correct_text": "نتایج اولیهٔ پژوهش برای گروه داوری خشنودکننده بود.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "خوشنود",
+    "correct_phrase": "خشنود",
+    "explanation": "صورت فصیح این واژه «خشنود» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داورینِ مجله، نسخهٔ اصلاح‌شدهٔ مقاله را تأیید کردند.",
+    "correct_text": "داورانِ مجله، نسخهٔ اصلاح‌شدهٔ مقاله را تأیید کردند.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "داورین",
+    "correct_phrase": "داوران",
+    "explanation": "واژهٔ فارسی «داور» باید با نشانهٔ جمع فارسی جمع بسته شود.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
