@@ -20755,5 +20755,126 @@
     "explanation": "نام این ولایت تاریخی در شمال چین با حرف «ت» نوشته می‌شود و کاربرد حرف «ط» اشتباه است.",
     "text_domain": "academic",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "در مقالهٔ رسمی، نویسنده برای اشاره به مفاهیم متعدد از واژهٔ «حروف‌ها» استفاده کرد.",
+    "correct_text": "در مقالهٔ رسمی، نویسنده برای اشاره به مفاهیم متعدد از واژهٔ «حروف» استفاده کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "جمع بستن واژهٔ فارسی با نشانهٔ عربی",
+    "incorrect_phrase": "حروف‌ها",
+    "correct_phrase": "حروف",
+    "explanation": "«حروف» خود جمع مکسر است و در این کاربرد به «ها» نیاز ندارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در گزارش مالی پروژه، حقگذارِ مسئول تأیید هزینه‌ها مشخص شد.",
+    "correct_text": "در گزارش مالی پروژه، حقگزارِ مسئول تأیید هزینه‌ها مشخص شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "مغایرت با رسم‌الخط معیار",
+    "incorrect_phrase": "حقگذار",
+    "correct_phrase": "حقگزار",
+    "explanation": "«حقگزار» از مصدر «گذاردن» ساخته می‌شود.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در متن ادبی، «هور» به معنای خورشید به‌کار رفت.",
+    "correct_text": "در متن ادبی، «هور» به معنای زیبایی به‌کار رفت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "هور",
+    "correct_phrase": "حور",
+    "explanation": "«حور» به معنای زیبایی است؛ «هور» به معنای خورشید است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در متن جغرافیایی، «حور» به معنای خورشید معرفی شد.",
+    "correct_text": "در متن جغرافیایی، «هور» به معنای خورشید معرفی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حور",
+    "correct_phrase": "هور",
+    "explanation": "«هور» به معنای خورشید است؛ «حور» به معنای زیبایی است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حوزهٔ آبریز رودخانه در مطالعهٔ هیدرولوژیک بررسی شد.",
+    "correct_text": "حوضهٔ آبریز رودخانه در مطالعهٔ هیدرولوژیک بررسی شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حوزه",
+    "correct_phrase": "حوضه",
+    "explanation": "«حوضه» به معنای گودی آبریز است؛ «حوزه» معنای قلمرو دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حوضهٔ مطالعاتی این پژوهش، ادبیات تطبیقی است.",
+    "correct_text": "حوزهٔ مطالعاتی این پژوهش، ادبیات تطبیقی است.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حوضه",
+    "correct_phrase": "حوزه",
+    "explanation": "«حوزه» برای قلمرو علمی به‌کار می‌رود؛ «حوضه» معنای آبریز دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "برای تکمیل مرور ادبیات، نویسنده حوصله کرد و منابع تکمیلی را بررسی نکرد.",
+    "correct_text": "برای تکمیل مرور ادبیات، نویسنده حوصله داشت و منابع تکمیلی را بررسی کرد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حوصله کردن",
+    "correct_phrase": "حوصله داشتن",
+    "explanation": "ترکیب درست در فارسی «حوصله داشتن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هولهٔ استریل پیش از ورود نمونه به اتاق تمیز تهیه شد.",
+    "correct_text": "حولهٔ استریل پیش از ورود نمونه به اتاق تمیز تهیه شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "هوله",
+    "correct_phrase": "حوله",
+    "explanation": "املای معیار این واژه «حوله» با حرف «ح» است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حیات سیاسی این اندیشمند در منابع تاریخی تحلیل شد.",
+    "correct_text": "حیات سیاسی این اندیشمند در منابع تاریخی تحلیل شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حیاط",
+    "correct_phrase": "حیات",
+    "explanation": "«حیات» به معنای زندگی است؛ «حیاط» به معنای صحن خانه است.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "حیاتِ داخلی ساختمان قدیمی در مطالعهٔ معماری ثبت شد.",
+    "correct_text": "حیاطِ داخلی ساختمان قدیمی در مطالعهٔ معماری ثبت شد.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+    "incorrect_phrase": "حیات",
+    "correct_phrase": "حیاط",
+    "explanation": "«حیاط» به معنای صحن خانه است؛ «حیات» معنای زندگی دارد.",
+    "text_domain": "academic",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "خطن در شمال چین در پژوهش تاریخی مورد توجه قرار گرفت.",
+    "correct_text": "ختن در شمال چین در پژوهش تاریخی مورد توجه قرار گرفت.",
+    "error_category": "اشکالات املایی و واژگانی",
+    "error_subcategory": "غلط املایی متداول",
+    "incorrect_phrase": "خطن",
+    "correct_phrase": "ختن",
+    "explanation": "نام تاریخی این شهر «ختن» است.",
+    "text_domain": "academic",
+    "language": "Persian"
   }
 ]
