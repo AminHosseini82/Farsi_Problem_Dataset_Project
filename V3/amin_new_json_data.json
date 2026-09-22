@@ -8450,5 +8450,395 @@
     ],
     "text_domain": "فلسفه علم",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "تبصره این قانون به‌وضوح مشخص است.",
+    "correct_text": "تبصرهٔ این قانون به‌وضوح مشخص است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "تبصره",
+        "correct_phrase": "تبصرهٔ",
+        "explanation": "هنگام افزودن نقش‌نمای اضافه (کسره) به واژهٔ مختوم به «ه» (ه مفتوح)، باید از کسره و همزهٔ جایگزین (هٔ) استفاده کرد."
+      }
+    ],
+    "text_domain": "حقوق",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "فرایند وامسازی واژگان در زبان‌شناسی بررسی شد.",
+    "correct_text": "فرایند وام‌سازی واژگان در زبان‌شناسی بررسی شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "وامسازی",
+        "correct_phrase": "وام‌سازی",
+        "explanation": "در واژه‌های ترکیبی و مشتق، اجزا باید با نیم‌فاصله به یکدیگر پیوند بخورند."
+      }
+    ],
+    "text_domain": "زبان‌شناسی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سیستم بازخور در این مدل بررسی شد.",
+    "correct_text": "سیستم بازخورد در این مدل بررسی شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+        "incorrect_phrase": "بازخور",
+        "correct_phrase": "بازخورد",
+        "explanation": "واژهٔ صحیح در علم کنترل و مهندسی برای اطلاعات بازگشتی، «بازخورد» است."
+      }
+    ],
+    "text_domain": "مهندسی کنترل",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سازه‌های اجتماعی در این نظریه مهم‌اند.",
+    "correct_text": "ساختارهای اجتماعی در این نظریه مهم‌اند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "کاربرد واژهٔ هم‌آوا یا متشابه با معنای نادرست",
+        "incorrect_phrase": "سازه‌های",
+        "correct_phrase": "ساختارهای",
+        "explanation": "در جامعه‌شناسی، واژهٔ «ساختار» برای نظام‌های اجتماعی به کار می‌رود، نه «سازه» که بیشتر بار معنایی مهندسی و فیزیکی دارد."
+      }
+    ],
+    "text_domain": "جامعه‌شناسی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتایج امار در این فصل ارائه شده است.",
+    "correct_text": "نتایج آمار در این فصل ارائه شده است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "امار",
+        "correct_phrase": "آمار",
+        "explanation": "در ابتدای واژه‌های دارای آوای «اَ» کشیده، همزه (آ) نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "تاثیر این متغیر قابل‌سنجش است.",
+    "correct_text": "تأثیر این متغیر قابل‌سنجش است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "تاثیر",
+        "correct_phrase": "تأثیر",
+        "explanation": "رسم‌الخط معیار، استفاده از همزهٔ نصب (أ) را در این واژه الزامی می‌داند."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "ادغام این دو سیستم غیر ممکن است.",
+    "correct_text": "ادغام این دو سیستم غیرممکن است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "غیر ممکن",
+        "correct_phrase": "غیرممکن",
+        "explanation": "«غیر» پیشوندی است که باید با صفت پس از خود پیوسته (با نیم‌فاصله) نوشته شود."
+      }
+    ],
+    "text_domain": "فناوری اطلاعات",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتیجه به این مرحله میرسد.",
+    "correct_text": "نتیجه به این مرحله می‌رسد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "میرسد",
+        "correct_phrase": "می‌رسد",
+        "explanation": "نویسهٔ پیشوند «می» باید با فعل اصلی به‌وسیلهٔ نیم‌فاصله پیوند بخورد."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.",
+    "correct_text": "به‌ویژه در زمینهٔ علوم انسانی، اهمیت زیادی دارد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بویژه",
+        "correct_phrase": "به‌ویژه",
+        "explanation": "به جای «بویژه»، «به‌ویژه» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علوم انسانی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخصوص در مقالات بین‌رشته‌ای مطرح می‌شود.",
+    "correct_text": "به‌خصوص در مقالات بین‌رشته‌ای مطرح می‌شود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بخصوص",
+        "correct_phrase": "به‌خصوص",
+        "explanation": "به جای «بخصوص»، «به‌خصوص» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بدلیل فقدان اطلاعات کافی، نتیجه‌گیری دشوار است.",
+    "correct_text": "به‌دلیل فقدان اطلاعات کافی، نتیجه‌گیری دشوار است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بدلیل",
+        "correct_phrase": "به‌دلیل",
+        "explanation": "به جای «بدلیل»، «به‌دلیل» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بعلت تغییرات آب‌وهوایی، محصولات کشاورزی آسیب دیدند.",
+    "correct_text": "به‌علت تغییرات آب‌وهوایی، محصولات کشاورزی آسیب دیدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بعلت",
+        "correct_phrase": "به‌علت",
+        "explanation": "به جای «بعلت»، «به‌علت» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "کشاورزی و محیط‌زیست",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این نظریه بوچود یک انقلاب فکری محسوب می‌شود.",
+    "correct_text": "این نظریه به‌وجود یک انقلاب فکری محسوب می‌شود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بوچود",
+        "correct_phrase": "به‌وجود",
+        "explanation": "به جای «بوچود»، «به‌وجود» با کسرهٔ «به» و «و» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علوم اجتماعی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بسرعت فرآیند تحقیق را انجام دادند.",
+    "correct_text": "به‌سرعت فرآیند تحقیق را انجام دادند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بسرعت",
+        "correct_phrase": "به‌سرعت",
+        "explanation": "به جای «بسرعت»، «به‌سرعت» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بطور کلی، یافته‌ها حاکی از پیشرفت است.",
+    "correct_text": "به‌طور کلی، یافته‌ها حاکی از پیشرفت است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بطور",
+        "correct_phrase": "به‌طور",
+        "explanation": "به جای «بطور»، «به‌طور» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخاطر محدودیت‌های مالی، پروژه به تعویق افتاد.",
+    "correct_text": "به‌خاطر محدودیت‌های مالی، پروژه به تعویق افتاد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بخاطر",
+        "correct_phrase": "به‌خاطر",
+        "explanation": "به جای «بخاطر»، «به‌خاطر» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدیریت مالی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "براحتی می‌توان این مفاهیم را درک کرد.",
+    "correct_text": "به‌راحتی می‌توان این مفاهیم را درک کرد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "براحتی",
+        "correct_phrase": "به‌راحتی",
+        "explanation": "به جای «براحتی»، «به‌راحتی» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آموزش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بکار بردن اصطلاحات تخصصی در مقاله الزامی است.",
+    "correct_text": "به‌کار بردن اصطلاحات تخصصی در مقاله الزامی است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بکار بردن",
+        "correct_phrase": "به‌کار بردن",
+        "explanation": "به جای «بکار بردن»، «به‌کار بردن» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بدست اوردن نتایج مطلوب نیازمند زمان است.",
+    "correct_text": "به‌دست آوردن نتایج مطلوب نیازمند زمان است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بدست اوردن",
+        "correct_phrase": "به‌دست آوردن",
+        "explanation": "به جای «بدست آوردن»، «به‌دست آوردن» با کسرهٔ «به» نوشته می‌شود. همچنین «اوردن» به صورت «آوردن» با همزه صحیح است."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بسر بردن وقت در کتابخانه برای دانشجویان مفید است.",
+    "correct_text": "به‌سر بردن وقت در کتابخانه برای دانشجویان مفید است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بسر بردن",
+        "correct_phrase": "به‌سر بردن",
+        "explanation": "به جای «بسر بردن»، «به‌سر بردن» با کسرهٔ «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آموزش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پیشک تردیدی وجود ندارد که این نظریه صحیح است.",
+    "correct_text": "بی‌شک تردیدی وجود ندارد که این نظریه صحیح است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "پیشک",
+        "correct_phrase": "بی‌شک",
+        "explanation": "به جای «پیشک»، «بی‌شک» با «بی» و «شک» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیگمان این پژوهش ارزشمند است.",
+    "correct_text": "بی‌گمان این پژوهش ارزشمند است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "بیگمان",
+        "correct_phrase": "بی‌گمان",
+        "explanation": "به جای «بیگمان»، «بی‌گمان» با «بی» و «گمان» و رعایت نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این متغیرهای باصطلاح مستقل، در واقع در مدل‌های اقتصادسنجی دارای هم‌بستگی بالایی هستند.",
+    "correct_text": "این متغیرهای به‌اصطلاح مستقل، در واقع در مدل‌های اقتصادسنجی دارای هم‌بستگی بالایی هستند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "باصطلاح",
+        "correct_phrase": "به‌اصطلاح",
+        "explanation": "حرف اضافه «به» باید به صورت جدا و با استفاده از نیم‌فاصله از واژه پس از خود نوشته شود."
+      }
+    ],
+    "text_domain": "اقتصاد",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "لایه‌های زمین‌شناختی در این منطقه در اثر فعالیت‌های تکتونیکی مداوم جابجا می‌شوند.",
+    "correct_text": "لایه‌های زمین‌شناختی در این منطقه در اثر فعالیت‌های تکتونیکی مداوم جابه‌جا می‌شوند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "جابجا",
+        "correct_phrase": "جابه‌جا",
+        "explanation": "در ترکیب‌هایی که با میانوند «به» ساخته می‌شوند، استفاده از نیم‌فاصله در هر دو سوی آن الزامی است."
+      }
+    ],
+    "text_domain": "زمین‌شناسی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران در مسیر اجرای این پروژه میدانی با چالش‌های روش‌شناختی متعددی روبرو شدند.",
+    "correct_text": "پژوهشگران در مسیر اجرای این پروژه میدانی با چالش‌های روش‌شناختی متعددی روبه‌رو شدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "روبرو",
+        "correct_phrase": "روبه‌رو",
+        "explanation": "در کلمات مرکب دارای میانوند «به»، رعایت نیم‌فاصله قبل و بعد از میانوند از اصول نگارشی است."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هزینه‌های عملیاتی این پالایشگاه در پایان سال مالی با درآمدهای حاصله سربسر شد.",
+    "correct_text": "هزینه‌های عملیاتی این پالایشگاه در پایان سال مالی با درآمدهای حاصله سربه‌سر شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "سربسر",
+        "correct_phrase": "سربه‌سر",
+        "explanation": "در واژگان مرکبی که شامل میانوند «به» هستند، درج نیم‌فاصله در اطراف میانوند ضروری است."
+      }
+    ],
+    "text_domain": "مدیریت مالی",
+    "language": "Persian"
   }
 ]
