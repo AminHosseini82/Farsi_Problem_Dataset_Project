@@ -12680,5 +12680,65 @@
     ],
     "text_domain": "علوم تربیتی و آموزش",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "مدیر هم دل با اعضای گروه، فضای همکاری ایجاد می‌کند.",
+    "correct_text": "مدیر همدل با اعضای گروه، فضای همکاری ایجاد می‌کند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم دل",
+        "correct_phrase": "همدل",
+        "explanation": "واژهٔ «همدل» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدیریت",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هر هم کار باید مسئولیت بخش خود را به‌موقع انجام دهد.",
+    "correct_text": "هر همکار باید مسئولیت بخش خود را به‌موقع انجام دهد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم کار",
+        "correct_phrase": "همکار",
+        "explanation": "واژهٔ «همکار» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدیریت",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در متن حماسی مورد بررسی، پهلوان داستان هم پای خود را در میدان نبرد نیافت.",
+    "correct_text": "در متن حماسی مورد بررسی، پهلوان داستان همپای خود را در میدان نبرد نیافت.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم پا",
+        "correct_phrase": "همپا",
+        "explanation": "پیشوند «هم» به واژهٔ پس از خود می‌چسبد: همپا."
+      }
+    ],
+    "text_domain": "ادبیات",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتایج مصاحبه‌ها نشان داد که اعضای گروه در پذیرش تغییر، هم دل و هم‌نظر بودند.",
+    "correct_text": "نتایج مصاحبه‌ها نشان داد که اعضای گروه در پذیرش تغییر، همدل و هم‌نظر بودند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم دل",
+        "correct_phrase": "همدل",
+        "explanation": "پیشوند «هم» به واژهٔ پس از خود می‌چسبد: همدل."
+      }
+    ],
+    "text_domain": "روان‌شناسی",
+    "language": "Persian"
   }
 ]
