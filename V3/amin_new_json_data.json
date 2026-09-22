@@ -11285,5 +11285,335 @@
     ],
     "text_domain": "مهندسی نرم‌افزار",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "مدیر هم دل با اعضای گروه، فضای همکاری ایجاد می‌کند.",
+    "correct_text": "مدیر همدل با اعضای گروه، فضای همکاری ایجاد می‌کند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم دل",
+        "correct_phrase": "همدل",
+        "explanation": "واژهٔ «همدل» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدیریت",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هر هم کار باید مسئولیت بخش خود را به‌موقع انجام دهد.",
+    "correct_text": "هر همکار باید مسئولیت بخش خود را به‌موقع انجام دهد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم کار",
+        "correct_phrase": "همکار",
+        "explanation": "واژهٔ «همکار» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدیریت",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هم رزم پژوهشگر در پروژهٔ مشترک با او همکاری داشت.",
+    "correct_text": "هم‌رزم پژوهشگر در پروژهٔ مشترک با او همکاری داشت.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم رزم",
+        "correct_phrase": "هم‌رزم",
+        "explanation": "پیشوند «هم» در «هم‌رزم» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "استاد هم راه دانشجویان در اجرای طرح پژوهشی بود.",
+    "correct_text": "استاد همراه دانشجویان در اجرای طرح پژوهشی بود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم راه",
+        "correct_phrase": "همراه",
+        "explanation": "واژهٔ «همراه» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "دانشگاهی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هم ایش علمی دانشکده با حضور پژوهشگران برگزار شد.",
+    "correct_text": "همایش علمی دانشکده با حضور پژوهشگران برگزار شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم ایش",
+        "correct_phrase": "همایش",
+        "explanation": "واژهٔ «همایش» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "دانشگاهی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "روش پیشنهادی با هم آورد خود در مطالعات پیشین مقایسه شد.",
+    "correct_text": "روش پیشنهادی با هماورد خود در مطالعات پیشین مقایسه شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم آورد",
+        "correct_phrase": "هماورد",
+        "explanation": "واژهٔ «هماورد» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اطمینان از هم آهنگ بودن اجزای سامانه ضروری است.",
+    "correct_text": "اطمینان از هماهنگ بودن اجزای سامانه ضروری است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم آهنگ",
+        "correct_phrase": "هماهنگ",
+        "explanation": "واژهٔ «هماهنگ» به‌صورت پیوسته نوشته می‌شود."
+      }
+    ],
+    "text_domain": "فناوری اطلاعات",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دانشجوی هم آرزو در تدوین مقاله با پژوهشگر همکاری کرد.",
+    "correct_text": "دانشجوی هم‌آرزو در تدوین مقاله با پژوهشگر همکاری کرد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم آرزو",
+        "correct_phrase": "هم‌آرزو",
+        "explanation": "پیشوند «هم» در «هم‌آرزو» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "دانشگاهی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کشورهای هم مرز در مدیریت منابع آب همکاری دارند.",
+    "correct_text": "کشورهای هم‌مرز در مدیریت منابع آب همکاری دارند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم مرز",
+        "correct_phrase": "هم‌مرز",
+        "explanation": "پیشوند «هم» در «هم‌مرز» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "جغرافیای سیاسی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران هم آرمان، پروژه‌ای میان‌رشته‌ای طراحی کردند.",
+    "correct_text": "پژوهشگران هم‌آرمان، پروژه‌ای میان‌رشته‌ای طراحی کردند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم آرمان",
+        "correct_phrase": "هم‌آرمان",
+        "explanation": "پیشوند «هم» در «هم‌آرمان» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هم اسم بودن دو متغیر، احتمال خطا در تحلیل را افزایش می‌دهد.",
+    "correct_text": "هم‌اسم بودن دو متغیر، احتمال خطا در تحلیل را افزایش می‌دهد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم اسم",
+        "correct_phrase": "هم‌اسم",
+        "explanation": "پیشوند «هم» در «هم‌اسم» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و روش تحقیق",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "گروه‌های هم مسلک در شکل‌گیری جنبش‌های اجتماعی نقش دارند.",
+    "correct_text": "گروه‌های هم‌مسلک در شکل‌گیری جنبش‌های اجتماعی نقش دارند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم مسلک",
+        "correct_phrase": "هم‌مسلک",
+        "explanation": "پیشوند «هم» در «هم‌مسلک» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "جامعه‌شناسی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "همان‌کتاب در منابع درسی این دوره معرفی شده است.",
+    "correct_text": "همان کتاب در منابع درسی این دوره معرفی شده است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "همان‌کتاب",
+        "correct_phrase": "همان کتاب",
+        "explanation": "اسم اشارهٔ «همان» از اسم پس از خود جدا نوشته می‌شود."
+      }
+    ],
+    "text_domain": "دانشگاهی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "همین‌خانه به‌عنوان محل اجرای مصاحبه‌های میدانی انتخاب شد.",
+    "correct_text": "همین خانه به‌عنوان محل اجرای مصاحبه‌های میدانی انتخاب شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "همین‌خانه",
+        "correct_phrase": "همین خانه",
+        "explanation": "اسم اشارهٔ «همین» از اسم پس از خود جدا نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "همین‌جا نقطهٔ آغاز تحلیل داده‌های پژوهش است.",
+    "correct_text": "همین جا نقطهٔ آغاز تحلیل داده‌های پژوهش است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "همین‌جا",
+        "correct_phrase": "همین جا",
+        "explanation": "ترکیب «همین جا» با فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در هم ین پژوهش، روش جدیدی برای ارزیابی داده‌ها پیشنهاد شده است.",
+    "correct_text": "در همین پژوهش، روش جدیدی برای ارزیابی داده‌ها پیشنهاد شده است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم ین",
+        "correct_phrase": "همین",
+        "explanation": "واژهٔ «همین» به‌صورت سرهم و چسبیده نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "یافته‌های این مطالعه، هم ان نتایجی را تأیید کرد که پیش‌تر گزارش شده بود.",
+    "correct_text": "یافته‌های این مطالعه، همان نتایجی را تأیید کرد که پیش‌تر گزارش شده بود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم ان",
+        "correct_phrase": "همان",
+        "explanation": "واژهٔ «همان» به‌صورت سرهم و چسبیده نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در این نظریه، زبان هم چو نظامی پویا و درحال‌تحول معرفی می‌شود.",
+    "correct_text": "در این نظریه، زبان همچو نظامی پویا و درحال‌تحول معرفی می‌شود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم چو",
+        "correct_phrase": "همچو",
+        "explanation": "قید «همچو» به‌صورت سرهم و چسبیده نوشته می‌شود."
+      }
+    ],
+    "text_domain": "زبان‌شناسی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر هم چنین به محدودیت‌های روش گردآوری داده اشاره کرده است.",
+    "correct_text": "پژوهشگر همچنین به محدودیت‌های روش گردآوری داده اشاره کرده است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم چنین",
+        "correct_phrase": "همچنین",
+        "explanation": "قید «همچنین» به‌صورت سرهم و چسبیده نوشته می‌شود."
+      }
+    ],
+    "text_domain": "پژوهشی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتایج نشان داد که اثر متغیر مداخله‌گر هم چنان معنادار باقی می‌ماند.",
+    "correct_text": "نتایج نشان داد که اثر متغیر مداخله‌گر همچنان معنادار باقی می‌ماند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم چنان",
+        "correct_phrase": "همچنان",
+        "explanation": "قید «همچنان» به‌صورت سرهم و چسبیده نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و روش تحقیق",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در این مطالعه، نقش یادگیری از هم درس در پیشرفت تحصیلی دانش‌آموزان بررسی شد.",
+    "correct_text": "در این مطالعه، نقش یادگیری از همدرس در پیشرفت تحصیلی دانش‌آموزان بررسی شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم درس",
+        "correct_phrase": "همدرس",
+        "explanation": "پیشوند «هم» به واژهٔ پس از خود می‌چسبد: همدرس."
+      }
+    ],
+    "text_domain": "علوم تربیتی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران، گروه آزمایش را با گروهی هم سنگ از نظر سن و تحصیلات مقایسه کردند.",
+    "correct_text": "پژوهشگران، گروه آزمایش را با گروهی همسنگ از نظر سن و تحصیلات مقایسه کردند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم سنگ",
+        "correct_phrase": "همسنگ",
+        "explanation": "پیشوند «هم» به واژهٔ پس از خود می‌چسبد: همسنگ."
+      }
+    ],
+    "text_domain": "آمار و روش تحقیق",
+    "language": "Persian"
   }
 ]
