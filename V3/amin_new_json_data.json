@@ -7655,5 +7655,800 @@
     ],
     "text_domain": "آمار و روش تحقیق",
     "language": "Persian"
+  },
+  {
+    "incorrect_text": "تعامل جابجا میان پژوهشگر و مشارکت‌کنندگان ضروری است.",
+    "correct_text": "تعامل جابه‌جا میان پژوهشگر و مشارکت‌کنندگان ضروری است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "جابجا",
+        "correct_phrase": "جابه‌جا",
+        "explanation": "ترکیب «جابه‌جا» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "رابطهٔ علت و معلول در این پژوهش روبرو بررسی شده است.",
+    "correct_text": "رابطهٔ علت و معلول در این پژوهش روبه‌رو بررسی شده است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "روبرو",
+        "correct_phrase": "روبه‌رو",
+        "explanation": "ترکیب «روبه‌رو» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و روش تحقیق",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سامانه خود بخود داده‌های تکراری را شناسایی می‌کند.",
+    "correct_text": "سامانه خودبه‌خود داده‌های تکراری را شناسایی می‌کند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "خود بخود",
+        "correct_phrase": "خودبه‌خود",
+        "explanation": "ترکیب «خودبه‌خود» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علوم کامپیوتر و پایگاه داده",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هر متغیر بهتنهایی برای تبیین پدیده کافی نیست.",
+    "correct_text": "هر متغیر به‌تنهایی برای تبیین پدیده کافی نیست.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بهتنهایی",
+        "correct_phrase": "به‌تنهایی",
+        "explanation": "ترکیب «به‌تنهایی» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و مدل‌سازی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بویژه در نمونه‌های کوچک، خطای اندازه‌گیری اهمیت بیشتری دارد.",
+    "correct_text": "به‌ویژه در نمونه‌های کوچک، خطای اندازه‌گیری اهمیت بیشتری دارد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بویژه",
+        "correct_phrase": "به‌ویژه",
+        "explanation": "ترکیب «به‌ویژه» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و سنجش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این روش بخصوص برای تحلیل داده‌های کیفی مناسب است.",
+    "correct_text": "این روش به‌خصوص برای تحلیل داده‌های کیفی مناسب است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بخصوص",
+        "correct_phrase": "به‌خصوص",
+        "explanation": "ترکیب «به‌خصوص» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی کیفی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بدلیل محدودیت زمانی، مرحلهٔ دوم پژوهش انجام نشد.",
+    "correct_text": "به‌دلیل محدودیت زمانی، مرحلهٔ دوم پژوهش انجام نشد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بدلیل",
+        "correct_phrase": "به‌دلیل",
+        "explanation": "ترکیب «به‌دلیل» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدیریت پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بعلت ناقص بودن داده‌ها، تعدادی از پاسخ‌ها حذف شدند.",
+    "correct_text": "به‌علت ناقص بودن داده‌ها، تعدادی از پاسخ‌ها حذف شدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بعلت",
+        "correct_phrase": "به‌علت",
+        "explanation": "ترکیب «به‌علت» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و پالایش داده‌ها",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌ها بصورت جدول و نمودار ارائه شده‌اند.",
+    "correct_text": "داده‌ها به‌صورت جدول و نمودار ارائه شده‌اند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بصورت",
+        "correct_phrase": "به‌صورت",
+        "explanation": "ترکیب «به‌صورت» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مصورسازی داده‌ها",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پس از کنترل متغیرهای مداخله‌گر، تفاوت معناداری بوجود آمد.",
+    "correct_text": "پس از کنترل متغیرهای مداخله‌گر، تفاوت معناداری به‌وجود آمد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بوجود",
+        "correct_phrase": "به‌وجود",
+        "explanation": "ترکیب «به‌وجود» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار استنباطی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "الگوریتم بسرعت الگوهای نهفته در داده‌ها را شناسایی کرد.",
+    "correct_text": "الگوریتم به‌سرعت الگوهای نهفته در داده‌ها را شناسایی کرد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بسرعت",
+        "correct_phrase": "به‌سرعت",
+        "explanation": "ترکیب «به‌سرعت» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علم داده و الگوریتم",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتایج بطور مستقل توسط دو ارزیاب بررسی شدند.",
+    "correct_text": "نتایج به‌طور مستقل توسط دو ارزیاب بررسی شدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بطور",
+        "correct_phrase": "به‌طور",
+        "explanation": "ترکیب «به‌طور» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخاطر رعایت اصول اخلاقی، اطلاعات هویتی حذف شد.",
+    "correct_text": "به‌خاطر رعایت اصول اخلاقی، اطلاعات هویتی حذف شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بخاطر",
+        "correct_phrase": "به‌خاطر",
+        "explanation": "ترکیب «به‌خاطر» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "اخلاق پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران براحتی می‌توانند این روش را تکرار کنند.",
+    "correct_text": "پژوهشگران به‌راحتی می‌توانند این روش را تکرار کنند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "براحتی",
+        "correct_phrase": "به‌راحتی",
+        "explanation": "ترکیب «به‌راحتی» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی و تکرارپذیری",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگر باید در تحلیل داده‌ها دقت بیشتری بکار ببرد.",
+    "correct_text": "پژوهشگر باید در تحلیل داده‌ها دقت بیشتری به‌کار ببرد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بکار ببرد",
+        "correct_phrase": "به‌کار ببرد",
+        "explanation": "ترکیب «به‌کار بردن» (و مشتقات آن مانند به‌کار ببرد) با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هدف پژوهش، بدست آوردن شواهد معتبر برای آزمون فرضیه بود.",
+    "correct_text": "هدف پژوهش، به‌دست‌آوردن شواهد معتبر برای آزمون فرضیه بود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بدست آوردن",
+        "correct_phrase": "به‌دست‌آوردن",
+        "explanation": "ترکیب «به‌دست‌آوردن» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیشک اعتبارسنجی نتایج، بخش ضروری هر پژوهش علمی است.",
+    "correct_text": "بی‌شک اعتبارسنجی نتایج، بخش ضروری هر پژوهش علمی است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بیشک",
+        "correct_phrase": "بی‌شک",
+        "explanation": "ترکیب «بی‌شک» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیگمان کنترل کیفیت داده‌ها بر اعتبار نتایج اثر می‌گذارد.",
+    "correct_text": "بی‌گمان کنترل کیفیت داده‌ها بر اعتبار نتایج اثر می‌گذارد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بیگمان",
+        "correct_phrase": "بی‌گمان",
+        "explanation": "ترکیب «بی‌گمان» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و کیفیت داده",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پذیرش ادعاهای بیخرد، فرایند استدلال علمی را تضعیف می‌کند.",
+    "correct_text": "پذیرش ادعاهای بی‌خرد، فرایند استدلال علمی را تضعیف می‌کند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بیخرد",
+        "correct_phrase": "بی‌خرد",
+        "explanation": "ترکیب «بی‌خرد» با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "فلسفه علم",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "در بررسی نهایی، هیچ‌گونه خطای محاسباتی در نتایج نیا فتاد.",
+    "correct_text": "در بررسی نهایی، هیچ‌گونه خطای محاسباتی در نتایج نیفتاد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "نیا فتاد",
+        "correct_phrase": "نیفتاد",
+        "explanation": "فعل «نیفتاد» یک‌واژه نوشته می‌شود و جدانویسی آن نادرست است."
+      }
+    ],
+    "text_domain": "آمار و محاسبات",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "میانگن نمرات دانشجویان در آزمون پایانی محاسبه شد.",
+    "correct_text": "میانگین نمرات دانشجویان در آزمون پایانی محاسبه شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "میانگن",
+        "correct_phrase": "میانگین",
+        "explanation": "واژهٔ درست «میانگین» است و باید با «ی» نوشته شود."
+      }
+    ],
+    "text_domain": "آمار و علوم تربیتی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این مفهوم باصطلاح در ادبیات تخصصی حوزهٔ داده شناخته می‌شود.",
+    "correct_text": "این مفهوم به‌اصطلاح در ادبیات تخصصی حوزهٔ داده شناخته می‌شود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "باصطلاح",
+        "correct_phrase": "به‌اصطلاح",
+        "explanation": "ترکیب «به‌اصطلاح» با نیم‌فاصله میان «به» و «اصطلاح» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علم داده",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "متغیرهای پژوهش باید در مدل تحلیلی جابجا تعریف شوند.",
+    "correct_text": "متغیرهای پژوهش باید در مدل تحلیلی جابه‌جا تعریف شوند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "جابجا",
+        "correct_phrase": "جابه‌جا",
+        "explanation": "ترکیب «جابه‌جا» با نیم‌فاصله میان اجزای خود نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدل‌سازی آماری",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دو گروه آزمایش و کنترل به‌صورت روبرو مقایسه شدند.",
+    "correct_text": "دو گروه آزمایش و کنترل به‌صورت روبه‌رو مقایسه شدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "روبرو",
+        "correct_phrase": "روبه‌رو",
+        "explanation": "واژهٔ مرکب «روبه‌رو» باید با نیم‌فاصله نوشته شود."
+      }
+    ],
+    "text_domain": "روش‌شناسی تجربی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "دو روش سر بسر از نظر دقت طبقه‌بندی مقایسه شدند.",
+    "correct_text": "دو روش سر‌به‌سر از نظر دقت طبقه‌بندی مقایسه شدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "سر بسر",
+        "correct_phrase": "سر‌به‌سر",
+        "explanation": "ترکیب «سر‌به‌سر» باید با نیم‌فاصله میان اجزای واژه نوشته شود."
+      }
+    ],
+    "text_domain": "یادگیری ماشین",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "سامانه خود بخود داده‌های تکراری را شناسایی می‌کند.",
+    "correct_text": "سامانه خودبه‌خود داده‌های تکراری را شناسایی می‌کند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "خود بخود",
+        "correct_phrase": "خودبه‌خود",
+        "explanation": "واژهٔ «خودبه‌خود» به‌صورت پیوسته و با نیم‌فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علوم کامپیوتر و پایگاه داده",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هر نمونه باید بتنهایی و بدون اثرپذیری از نمونه‌های دیگر بررسی شود.",
+    "correct_text": "هر نمونه باید به‌تنهایی و بدون اثرپذیری از نمونه‌های دیگر بررسی شود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بتنهایی",
+        "correct_phrase": "به‌تنهایی",
+        "explanation": "ترکیب «به‌تنهایی» با نیم‌فاصله پس از «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و روش تحقیق",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این یافته بویژه برای طراحی سامانه‌های هوشمند اهمیت دارد.",
+    "correct_text": "این یافته به‌ویژه برای طراحی سامانه‌های هوشمند اهمیت دارد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بویژه",
+        "correct_phrase": "به‌ویژه",
+        "explanation": "قید «به‌ویژه» با نیم‌فاصله پس از «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "هوش مصنوعی و طراحی سیستم",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این محدودیت بخصوص در تحلیل داده‌های کم‌حجم مشاهده می‌شود.",
+    "correct_text": "این محدودیت به‌خصوص در تحلیل داده‌های کم‌حجم مشاهده می‌شود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بخصوص",
+        "correct_phrase": "به‌خصوص",
+        "explanation": "ترکیب «به‌خصوص» با نیم‌فاصله میان اجزای خود نوشته می‌شود."
+      }
+    ],
+    "text_domain": "تحلیل داده",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "مدل بدلیل کمبود داده‌های آموزشی دقت کافی نداشت.",
+    "correct_text": "مدل به‌دلیل کمبود داده‌های آموزشی دقت کافی نداشت.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بدلیل",
+        "correct_phrase": "به‌دلیل",
+        "explanation": "ترکیب «به‌دلیل» با نیم‌فاصله پس از «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "یادگیری ماشین",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بعلت محدودیت‌های سخت‌افزاری، زمان اجرای آزمایش افزایش یافت.",
+    "correct_text": "به‌علت محدودیت‌های سخت‌افزاری، زمان اجرای آزمایش افزایش یافت.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بعلت",
+        "correct_phrase": "به‌علت",
+        "explanation": "ترکیب «به‌علت» با نیم‌فاصله میان «به» و «علت» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "معماری سیستم‌های کامپیوتری",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌ها بصورت ناشناس در پایگاه اطلاعاتی ذخیره شدند.",
+    "correct_text": "داده‌ها به‌صورت ناشناس در پایگاه اطلاعاتی ذخیره شدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بصورت",
+        "correct_phrase": "به‌صورت",
+        "explanation": "ترکیب «به‌صورت» با نیم‌فاصله پس از «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "امنیت داده‌ها",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بوجود آمدن خطاهای تصادفی در فرایند اندازه‌گیری اجتناب‌ناپذیر است.",
+    "correct_text": "به‌وجود آمدن خطاهای تصادفی در فرایند اندازه‌گیری اجتناب‌ناپذیر است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بوجود",
+        "correct_phrase": "به‌وجود",
+        "explanation": "ترکیب «به‌وجود» با نیم‌فاصله میان اجزای خود نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار و اندازه‌گیری",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "الگوریتم بسرعت همگرا شد و پاسخ بهینه را تولید کرد.",
+    "correct_text": "الگوریتم به‌سرعت همگرا شد و پاسخ بهینه را تولید کرد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بسرعت",
+        "correct_phrase": "به‌سرعت",
+        "explanation": "قید «به‌سرعت» با نیم‌فاصله پس از «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علوم کامپیوتر",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌ها بطور منظم و در بازه‌های زمانی ثابت ثبت شدند.",
+    "correct_text": "داده‌ها به‌طور منظم و در بازه‌های زمانی ثابت ثبت شدند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بطور",
+        "correct_phrase": "به‌طور",
+        "explanation": "ترکیب «به‌طور» با نیم‌فاصله میان «به» و «طور» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علوم داده",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بخاطر رعایت اصول اخلاق پژوهش، هویت مشارکت‌کنندگان محرمانه ماند.",
+    "correct_text": "به‌خاطر رعایت اصول اخلاق پژوهش، هویت مشارکت‌کنندگان محرمانه ماند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بخاطر",
+        "correct_phrase": "به‌خاطر",
+        "explanation": "ترکیب «به‌خاطر» با نیم‌فاصله پس از «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "اخلاق پژوهش",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "کاربران براحتی می‌توانند نتایج تحلیل را در سامانه مشاهده کنند.",
+    "correct_text": "کاربران به‌راحتی می‌توانند نتایج تحلیل را در سامانه مشاهده کنند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "براحتی",
+        "correct_phrase": "به‌راحتی",
+        "explanation": "قید «به‌راحتی» با نیم‌فاصله میان اجزای خود نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مهندسی نرم‌افزار",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهشگران باید روش مناسب را برای تحلیل داده‌ها بکار بردن.",
+    "correct_text": "پژوهشگران باید روش مناسب را برای تحلیل داده‌ها به‌کار بردن.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بکار بردن",
+        "correct_phrase": "به‌کار بردن",
+        "explanation": "ترکیب فعلی «به‌کار بردن» با نیم‌فاصله پس از «به» نوشته می‌شود."
+      }
+    ],
+    "text_domain": "آمار",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هدف پژوهش، بدست آوردن الگویی برای پیش‌بینی عملکرد سامانه است.",
+    "correct_text": "هدف پژوهش، به‌دست‌آوردن الگویی برای پیش‌بینی عملکرد سامانه است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بدست آوردن",
+        "correct_phrase": "به‌دست‌آوردن",
+        "explanation": "ترکیب «به‌دست‌آوردن» با نیم‌فاصله میان اجزای خود نوشته می‌شود."
+      }
+    ],
+    "text_domain": "یادگیری ماشین",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیشک اعتبار نتایج به کیفیت طراحی پژوهش وابسته است.",
+    "correct_text": "بی‌شک اعتبار نتایج به کیفیت طراحی پژوهش وابسته است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بیشک",
+        "correct_phrase": "بی‌شک",
+        "explanation": "واژهٔ «بی‌شک» با نیم‌فاصله میان پیشوند و پایه نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش تحقیق",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بیگمان تکرارپذیری آزمایش، اعتبار علمی پژوهش را افزایش می‌دهد.",
+    "correct_text": "بی‌گمان تکرارپذیری آزمایش، اعتبار علمی پژوهش را افزایش می‌دهد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بیگمان",
+        "correct_phrase": "بی‌گمان",
+        "explanation": "واژهٔ «بی‌گمان» با نیم‌فاصله میان پیشوند و پایه نوشته می‌شود."
+      }
+    ],
+    "text_domain": "علوم تجربی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "پژوهش بیخرد فاقد مبانی نظری و روش‌شناختی قابل‌دفاع است.",
+    "correct_text": "پژوهش بی‌خرد فاقد مبانی نظری و روش‌شناختی قابل‌دفاع است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بیخرد",
+        "correct_phrase": "بی‌خرد",
+        "explanation": "واژهٔ «بی‌خرد» با نیم‌فاصله میان پیشوند و پایه نوشته می‌شود."
+      }
+    ],
+    "text_domain": "روش تحقیق",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "اصلا در این پژوهش به این متغیر اشاره نشده است.",
+    "correct_text": "اصلاً در این پژوهش به این متغیر اشاره نشده است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "اصلا",
+        "correct_phrase": "اصلاً",
+        "explanation": "واژه‌های دارای «لا» در پایان، نویسهٔ تشدید (ّ) می‌گیرند."
+      }
+    ],
+    "text_domain": "آمار",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بی شک نتایج این آزمایش حائز اهمیت است.",
+    "correct_text": "بی‌شک نتایج این آزمایش حائز اهمیت است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بی شک",
+        "correct_phrase": "بی‌شک",
+        "explanation": "پیشوند «بی» باید با واژهٔ پس از خود به‌وسیلهٔ نیم‌فاصله پیوند بخورد."
+      }
+    ],
+    "text_domain": "علوم پایه",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "نتیجه گیری این مطالعه نشان‌دهندهٔ رشد اقتصادی است.",
+    "correct_text": "نتیجه‌گیری این مطالعه نشان‌دهندهٔ رشد اقتصادی است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "نتیجه گیری",
+        "correct_phrase": "نتیجه‌گیری",
+        "explanation": "در واژه‌های ترکیبی، باید از نیم‌فاصله برای پیوند اجزا استفاده کرد."
+      }
+    ],
+    "text_domain": "اقتصاد",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "داده‌های کمی در این جدول ارائه شده‌اند.",
+    "correct_text": "داده‌های کمّی در این جدول ارائه شده‌اند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "کمی",
+        "correct_phrase": "کمّی",
+        "explanation": "واژهٔ «کم» در حالت صفت نسبی، نویسهٔ تشدید بر «م» می‌گیرد."
+      }
+    ],
+    "text_domain": "آمار",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "رضایت مشتزی در این پژوهش سنجیده شد.",
+    "correct_text": "رضایت مشتری در این پژوهش سنجیده شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "غلط املایی متداول",
+        "incorrect_phrase": "مشتزی",
+        "correct_phrase": "مشتری",
+        "explanation": "املای درست این واژه «مشتری» است و نوشتن «مشتزی» غلط است."
+      }
+    ],
+    "text_domain": "مدیریت بازاریابی",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "بر عکس انتظارات، این روش ناکارآمد بود.",
+    "correct_text": "برعکس انتظارات، این روش ناکارآمد بود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "بر عکس",
+        "correct_phrase": "برعکس",
+        "explanation": "واژهٔ «برعکس» به‌صورت پیوسته و بدون فاصله نوشته می‌شود."
+      }
+    ],
+    "text_domain": "مدیریت",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هم زمان با این رویداد، متغیرها تغییر کردند.",
+    "correct_text": "هم‌زمان با این رویداد، متغیرها تغییر کردند.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "هم زمان",
+        "correct_phrase": "هم‌زمان",
+        "explanation": "پیشوند «هم» با واژهٔ پایه باید با نیم‌فاصله پیوند بخورد."
+      }
+    ],
+    "text_domain": "آمار",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این عامل موثر در کاهش نرخ تورم است.",
+    "correct_text": "این عامل مؤثر در کاهش نرخ تورم است.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "موثر",
+        "correct_phrase": "مؤثر",
+        "explanation": "در رسم‌الخط معیار، واکهٔ پیش از «ت» با واو قافیه‌نویسی (ؤ) نوشته می‌شود."
+      }
+    ],
+    "text_domain": "اقتصاد",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "هر مولفه در این معادله به‌طور جداگانه محاسبه شد.",
+    "correct_text": "هر مؤلفه در این معادله به‌طور جداگانه محاسبه شد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "مولفه",
+        "correct_phrase": "مؤلفه",
+        "explanation": "رسم‌الخط صحیح این واژه با استفاده از «ؤ» در میانهٔ آن است."
+      }
+    ],
+    "text_domain": "ریاضیات",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این مساله در ریاضیات تناهی حل می‌شود.",
+    "correct_text": "این مسئله در ریاضیات تناهی حل می‌شود.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "مساله",
+        "correct_phrase": "مسئله",
+        "explanation": "نوشتن این واژه با «ئ» در میان حروف، املای معیار آن است."
+      }
+    ],
+    "text_domain": "ریاضیات",
+    "language": "Persian"
+  },
+  {
+    "incorrect_text": "این پدیده کاملا با نظریهٔ پیشین مغایرت دارد.",
+    "correct_text": "این پدیده کاملاً با نظریهٔ پیشین مغایرت دارد.",
+    "errors": [
+      {
+        "error_category": "اشکالات املایی و واژگانی",
+        "error_subcategory": "مغایرت با رسم‌الخط معیار",
+        "incorrect_phrase": "کاملا",
+        "correct_phrase": "کاملاً",
+        "explanation": "قیدهای دارای «لا» در پایان باید نویسهٔ تشدید (ّ) بپذیرند."
+      }
+    ],
+    "text_domain": "فلسفه علم",
+    "language": "Persian"
   }
 ]
