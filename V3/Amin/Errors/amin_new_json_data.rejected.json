@@ -1,29 +1,5 @@
 [
   {
-    "_index_in_file": 447,
-    "_reasons": [
-      {
-        "code": "UNKNOWN_SUBCATEGORY",
-        "detail": "errors[0] زیرخطای خارج از لیست: نگارش نادرست همزه"
-      }
-    ],
-    "sample": {
-      "incorrect_text": "یکی از دانشجویان دربارهٔ معیارهای انتخاب داده‌ها سئوال مطرح کرد.",
-      "correct_text": "یکی از دانشجویان دربارهٔ معیارهای انتخاب داده‌ها سؤال مطرح کرد.",
-      "errors": [
-        {
-          "error_category": "اشکالات املایی و نگارشی",
-          "error_subcategory": "نگارش نادرست همزه",
-          "incorrect_phrase": "سئوال",
-          "correct_phrase": "سؤال",
-          "explanation": "واژهٔ معیار «سؤال» است. صورت‌های «سئوال»، «سوئال» و «سال» برای این معنا نادرست یا غیرمعیار محسوب می‌شوند."
-        }
-      ],
-      "text_domain": "آموزشی",
-      "language": "Persian"
-    }
-  },
-  {
     "_index_in_file": 448,
     "_reasons": [
       {
