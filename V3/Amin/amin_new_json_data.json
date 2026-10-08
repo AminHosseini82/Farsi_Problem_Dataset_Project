@@ -6630,7 +6630,7 @@
     "correct_text": "سامانه باید بتواند داده‌های ورودی را به‌صورت مؤثر پردازش کند.",
     "errors": [
       {
-        "error_category": "اشکالات املایی و نگارشی",
+        "error_category": "اشکالات املایی و واژگانی",
         "error_subcategory": "مغایرت با رسم‌الخط معیار",
         "incorrect_phrase": "موثر",
         "correct_phrase": "مؤثر",
@@ -6804,7 +6804,7 @@
     "correct_text": "این یافته‌ها با نتایج مطالعات پیشین مغایر نبوده و آن‌ها را تأیید می‌کند.",
     "errors": [
       {
-        "error_category": "اشکالات املایی و نگارشی",
+        "error_category": "اشکالات املایی و واژگانی",
         "error_subcategory": "مغایرت با رسم‌الخط معیار",
         "incorrect_phrase": "تایید",
         "correct_phrase": "تأیید",
@@ -6819,7 +6819,7 @@
     "correct_text": "نتایج آزمایش نشان می‌دهد که روش پیشنهادی نسبت به روش‌های رقیب کارایی بالاتری دارد.",
     "errors": [
       {
-        "error_category": "اشکالات املایی و نگارشی",
+        "error_category": "اشکالات املایی و واژگانی",
         "error_subcategory": "مغایرت با رسم‌الخط معیار",
         "incorrect_phrase": "کارائی",
         "correct_phrase": "کارایی",
@@ -8949,7 +8949,7 @@
     "correct_text": "نتایج آزمایش‌های تکمیلی، فرضیهٔ اصلی پژوهش را تأیید کرد.",
     "errors": [
       {
-        "error_category": "اشکالات املایی و نگارشی",
+        "error_category": "اشکالات املایی و واژگانی",
         "error_subcategory": "خطای کرسی همزه",
         "incorrect_phrase": "تائید",
         "correct_phrase": "تأیید",
@@ -8994,7 +8994,7 @@
     "correct_text": "گفت‌وگو میان اعضای گروه دربارهٔ روش ارزیابی مدل ادامه یافت.",
     "errors": [
       {
-        "error_category": "اشکالات املایی و نگارشی",
+        "error_category": "اشکالات املایی و واژگانی",
         "error_subcategory": "مغایرت با رسم‌الخط معیار",
         "incorrect_phrase": "گفتگو",
         "correct_phrase": "گفت‌وگو",
@@ -9009,7 +9009,7 @@
     "correct_text": "یکی از دانشجویان دربارهٔ معیارهای انتخاب داده‌ها سؤال مطرح کرد.",
     "errors": [
       {
-        "error_category": "اشکالات املایی و نگارشی",
+        "error_category": "اشکالات املایی و واژگانی",
         "error_subcategory": "مغایرت با رسم‌الخط معیار",
         "incorrect_phrase": "سئوال",
         "correct_phrase": "سؤال",
@@ -9084,7 +9084,7 @@
     "correct_text": "گردآوری داده‌ها در فصل پاییز انجام شد.",
     "errors": [
       {
-        "error_category": "اشکالات املایی و نگارشی",
+        "error_category": "اشکالات املایی و واژگانی",
         "error_subcategory": "مغایرت با رسم‌الخط معیار",
         "incorrect_phrase": "پائیز",
         "correct_phrase": "پاییز",
