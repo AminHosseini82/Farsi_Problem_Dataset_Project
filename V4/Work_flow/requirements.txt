@@ -1,0 +1,20 @@
+# Install into the project venv:
+#   py -3.11 -m venv .venv
+#   .venv\Scripts\python.exe -m pip install -r Work_flow\requirements.txt
+#
+# One file:   .venv\Scripts\python.exe Work_flow\clean_persian.py --input Work_flow\..\uncleaned_wikipedia_dumps\part_0001.json
+# Whole folder: .venv\Scripts\python.exe Work_flow\batch_clean.py --workers 4
+# Academic rewrite (needs OPENAI_API_KEY):
+#   plan only, no API calls: .venv\Scripts\python.exe Work_flow\academic_rewrite.py --dry-run
+#   pilot run:               .venv\Scripts\python.exe Work_flow\academic_rewrite.py --limit-files 2
+#   everything:              .venv\Scripts\python.exe Work_flow\academic_rewrite.py
+# If files.pythonhosted.org is unreachable, install the SDK from a mirror:
+#   .venv\Scripts\python.exe -m pip install --index-url https://mirrors.cloud.tencent.com/pypi/simple/ openai==3.45.0
+
+hazm==0.10.0
+nltk==3.10.4
+python-crfsuite==0.9.12
+scikit-learn==1.9.1
+numpy==1.24.3
+scipy==1.15.3
+openai==3.45.0
