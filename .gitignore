@@ -15,3 +15,15 @@ V4/stage1_rule_cleaned_wikipedia_dumps/
 V4/stage2_error_taxonomy_cleaned_wikipedia_dumps/
 V4/academic_cleaned/
 V4/Work_flow/output/
+
+# Copies inside the 2026-11-10 bundle (V4/package_raw_dataset_and_cleaned_stages):
+# the same multi-gigabyte data again, plus the code and venv copies. Only
+# WORK_SUMMARY.md and libraries.txt at the bundle root are meant to be tracked.
+V4/package_raw_dataset_and_cleaned_stages/uncleaned_wikipedia_dumps/
+V4/package_raw_dataset_and_cleaned_stages/stage1_rule_cleaned_wikipedia_dumps/
+V4/package_raw_dataset_and_cleaned_stages/stage2_error_taxonomy_cleaned_wikipedia_dumps/
+V4/package_raw_dataset_and_cleaned_stages/Work_flow/
+
+# dataset_final/ is a byte-identical copy of one stage-2 file, so it stays out of
+# history too; publishing it would mean Git LFS, not a plain commit.
+V4/dataset_final/
