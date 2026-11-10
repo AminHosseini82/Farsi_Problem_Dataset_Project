@@ -12,5 +12,6 @@ nul
 # so they stay out of git history.
 V4/uncleaned_wikipedia_dumps/
 V4/stage1_rule_cleaned_wikipedia_dumps/
+V4/stage2_error_taxonomy_cleaned_wikipedia_dumps/
 V4/academic_cleaned/
 V4/Work_flow/output/
