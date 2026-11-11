@@ -131,7 +131,7 @@
   {
     "incorrect_phrase": "میباشد",
     "correct_phrase": "می‌باشد",
-    "count": 15,
+    "count": 20,
     "error_category": [
       "اشکالات نگارشی",
       "اشکالات املایی و واژگانی"
@@ -155,7 +155,7 @@
   {
     "incorrect_phrase": "میکند",
     "correct_phrase": "می‌کند",
-    "count": 17,
+    "count": 18,
     "error_category": [
       "اشکالات نگارشی",
       "اشکالات املایی و واژگانی"
@@ -201,7 +201,7 @@
   {
     "incorrect_phrase": "میدهد",
     "correct_phrase": "می‌دهد",
-    "count": 14,
+    "count": 19,
     "error_category": [
       "اشکالات نگارشی",
       "اشکالات املایی و واژگانی"
@@ -346,7 +346,7 @@
   {
     "incorrect_phrase": "بطور",
     "correct_phrase": "به‌طور",
-    "count": 13,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی",
       "اشکالات نگارشی"
@@ -456,7 +456,7 @@
   {
     "incorrect_phrase": "گزارشات",
     "correct_phrase": "گزارش‌های",
-    "count": 9,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -478,7 +478,7 @@
   {
     "incorrect_phrase": "ابتداء",
     "correct_phrase": "ابتدا",
-    "count": 12,
+    "count": 18,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -490,7 +490,7 @@
   {
     "incorrect_phrase": "اطاق",
     "correct_phrase": "اتاق",
-    "count": 8,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -597,7 +597,7 @@
   {
     "incorrect_phrase": "پرتقال",
     "correct_phrase": "پرتغال",
-    "count": 8,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -700,7 +700,7 @@
   {
     "incorrect_phrase": "میتواند",
     "correct_phrase": "می‌تواند",
-    "count": 7,
+    "count": 20,
     "error_category": [
       "اشکالات نگارشی",
       "اشکالات املایی و واژگانی"
@@ -713,7 +713,7 @@
   {
     "incorrect_phrase": "هیات",
     "correct_phrase": "هیئت",
-    "count": 9,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -784,7 +784,7 @@
   {
     "incorrect_phrase": "بسرعت",
     "correct_phrase": "به‌سرعت",
-    "count": 6,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -877,7 +877,7 @@
   {
     "incorrect_phrase": "توجیه",
     "correct_phrase": "توجه",
-    "count": 7,
+    "count": 16,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -912,7 +912,7 @@
   {
     "incorrect_phrase": "میرسد",
     "correct_phrase": "می‌رسد",
-    "count": 7,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی",
       "اشکالات نگارشی"
@@ -991,7 +991,7 @@
   {
     "incorrect_phrase": "اثاث",
     "correct_phrase": "اساس",
-    "count": 12,
+    "count": 18,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1003,7 +1003,7 @@
   {
     "incorrect_phrase": "اعلی",
     "correct_phrase": "اعلا",
-    "count": 5,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1149,7 +1149,7 @@
   {
     "incorrect_phrase": "تی",
     "correct_phrase": "طی",
-    "count": 8,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1183,7 +1183,7 @@
   {
     "incorrect_phrase": "دوماً",
     "correct_phrase": "دوم",
-    "count": 5,
+    "count": 19,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1298,7 +1298,7 @@
   {
     "incorrect_phrase": "میگردد",
     "correct_phrase": "می‌گردد",
-    "count": 6,
+    "count": 17,
     "error_category": [
       "اشکالات نگارشی",
       "اشکالات املایی و واژگانی"
@@ -1311,7 +1311,7 @@
   {
     "incorrect_phrase": "میگیرد",
     "correct_phrase": "می‌گیرد",
-    "count": 6,
+    "count": 20,
     "error_category": [
       "اشکالات نگارشی",
       "اشکالات املایی و واژگانی"
@@ -1452,7 +1452,7 @@
   {
     "incorrect_phrase": "انتساب",
     "correct_phrase": "انتصاب",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1486,7 +1486,7 @@
   {
     "incorrect_phrase": "اگه",
     "correct_phrase": "اگر",
-    "count": 4,
+    "count": 20,
     "error_category": [
       "اشکالات نگارشی",
       "اشکالات املایی و واژگانی"
@@ -1510,7 +1510,7 @@
   {
     "incorrect_phrase": "با این وجود",
     "correct_phrase": "با وجود این",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1566,7 +1566,7 @@
   {
     "incorrect_phrase": "برّرسی",
     "correct_phrase": "بررسی",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1622,7 +1622,7 @@
   {
     "incorrect_phrase": "بیدرنگ",
     "correct_phrase": "بی‌درنگ",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی",
       "اشکالات نگارشی"
@@ -1706,7 +1706,7 @@
   {
     "incorrect_phrase": "جز",
     "correct_phrase": "جزء",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1717,7 +1717,7 @@
   {
     "incorrect_phrase": "جزو",
     "correct_phrase": "جزء",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1728,7 +1728,7 @@
   {
     "incorrect_phrase": "حیاط",
     "correct_phrase": "حیات",
-    "count": 5,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1931,7 +1931,7 @@
   {
     "incorrect_phrase": "هیأت",
     "correct_phrase": "هیئت",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -1943,7 +1943,7 @@
   {
     "incorrect_phrase": "پائین",
     "correct_phrase": "پایین",
-    "count": 5,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2067,7 +2067,7 @@
   {
     "incorrect_phrase": "ابان",
     "correct_phrase": "آبان",
-    "count": 3,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2091,7 +2091,7 @@
   {
     "incorrect_phrase": "احوالات",
     "correct_phrase": "احوال",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2103,7 +2103,7 @@
   {
     "incorrect_phrase": "ارایه",
     "correct_phrase": "ارائه",
-    "count": 10,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2159,7 +2159,7 @@
   {
     "incorrect_phrase": "اسلامبول",
     "correct_phrase": "استانبول",
-    "count": 4,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2182,7 +2182,7 @@
   {
     "incorrect_phrase": "افریقا",
     "correct_phrase": "آفریقا",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2194,7 +2194,7 @@
   {
     "incorrect_phrase": "امریکا",
     "correct_phrase": "آمریکا",
-    "count": 5,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2206,7 +2206,7 @@
   {
     "incorrect_phrase": "امورات",
     "correct_phrase": "امور",
-    "count": 3,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2274,7 +2274,7 @@
   {
     "incorrect_phrase": "اهمّیت",
     "correct_phrase": "اهمیت",
-    "count": 5,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2352,7 +2352,7 @@
   {
     "incorrect_phrase": "برعلیه",
     "correct_phrase": "علیه",
-    "count": 4,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2612,7 +2612,7 @@
   {
     "incorrect_phrase": "حیاطی",
     "correct_phrase": "حیاتی",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2726,7 +2726,7 @@
   {
     "incorrect_phrase": "دورة",
     "correct_phrase": "دورهٔ",
-    "count": 3,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2770,7 +2770,7 @@
   {
     "incorrect_phrase": "سمر",
     "correct_phrase": "ثمر",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2803,7 +2803,7 @@
   {
     "incorrect_phrase": "سوقات",
     "correct_phrase": "سوغات",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2814,7 +2814,7 @@
   {
     "incorrect_phrase": "سوماً",
     "correct_phrase": "سوم",
-    "count": 3,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2871,7 +2871,7 @@
   {
     "incorrect_phrase": "طوس",
     "correct_phrase": "توس",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2917,7 +2917,7 @@
   {
     "incorrect_phrase": "فارق‌التحصیل",
     "correct_phrase": "فارغ‌التحصیل",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -2940,7 +2940,7 @@
   {
     "incorrect_phrase": "قالب",
     "correct_phrase": "غالب",
-    "count": 5,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -3007,7 +3007,7 @@
   {
     "incorrect_phrase": "مزمون",
     "correct_phrase": "مضمون",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -3041,7 +3041,7 @@
   {
     "incorrect_phrase": "مشگل",
     "correct_phrase": "مشکل",
-    "count": 5,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -3305,7 +3305,7 @@
   {
     "incorrect_phrase": "نتیجة",
     "correct_phrase": "نتیجهٔ",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -3586,7 +3586,7 @@
   {
     "incorrect_phrase": "پائیز",
     "correct_phrase": "پاییز",
-    "count": 3,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -3631,7 +3631,7 @@
   {
     "incorrect_phrase": "پژوهشات",
     "correct_phrase": "پژوهش‌های",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -3654,7 +3654,7 @@
   {
     "incorrect_phrase": "کارخانجات",
     "correct_phrase": "کارخانه‌ها",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -3797,7 +3797,7 @@
   {
     "incorrect_phrase": "آزمایشات",
     "correct_phrase": "آزمایش‌های",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4023,7 +4023,7 @@
   {
     "incorrect_phrase": "اعضاء",
     "correct_phrase": "اعضای",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4067,7 +4067,7 @@
   {
     "incorrect_phrase": "امارت",
     "correct_phrase": "عمارت",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4425,7 +4425,7 @@
   {
     "incorrect_phrase": "برگذار",
     "correct_phrase": "برگزار",
-    "count": 6,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4437,7 +4437,7 @@
   {
     "incorrect_phrase": "بسیاراً",
     "correct_phrase": "بسیار",
-    "count": 11,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4459,7 +4459,7 @@
   {
     "incorrect_phrase": "بعنوان",
     "correct_phrase": "به‌عنوان",
-    "count": 6,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4558,7 +4558,7 @@
   {
     "incorrect_phrase": "بهبودی",
     "correct_phrase": "بهبود",
-    "count": 3,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4693,7 +4693,7 @@
   {
     "incorrect_phrase": "بیشتری",
     "correct_phrase": "بیشتر",
-    "count": 2,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4807,7 +4807,7 @@
   {
     "incorrect_phrase": "تحلل",
     "correct_phrase": "تحلیل",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4818,7 +4818,7 @@
   {
     "incorrect_phrase": "تحمل",
     "correct_phrase": "تحمیل",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4829,7 +4829,7 @@
   {
     "incorrect_phrase": "تحمیل",
     "correct_phrase": "تحمل",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4851,7 +4851,7 @@
   {
     "incorrect_phrase": "ترجیه",
     "correct_phrase": "ترجیح",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -4939,7 +4939,7 @@
   {
     "incorrect_phrase": "توجّه",
     "correct_phrase": "توجه",
-    "count": 7,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5039,7 +5039,7 @@
   {
     "incorrect_phrase": "جامعة",
     "correct_phrase": "جامعهٔ",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5061,7 +5061,7 @@
   {
     "incorrect_phrase": "جزیی",
     "correct_phrase": "جزئی",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5128,7 +5128,7 @@
   {
     "incorrect_phrase": "حوزة",
     "correct_phrase": "حوزهٔ",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5139,7 +5139,7 @@
   {
     "incorrect_phrase": "حیات",
     "correct_phrase": "حیاط",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5150,7 +5150,7 @@
   {
     "incorrect_phrase": "خار",
     "correct_phrase": "خوار",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5161,7 +5161,7 @@
   {
     "incorrect_phrase": "خاصّ",
     "correct_phrase": "خاص",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5194,7 +5194,7 @@
   {
     "incorrect_phrase": "خانه‌ش",
     "correct_phrase": "خانه‌اش",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5216,7 +5216,7 @@
   {
     "incorrect_phrase": "خانه‌گی",
     "correct_phrase": "خانگی",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5271,7 +5271,7 @@
   {
     "incorrect_phrase": "خواستگاه",
     "correct_phrase": "خاستگاه",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5282,7 +5282,7 @@
   {
     "incorrect_phrase": "خوباً",
     "correct_phrase": "خوب",
-    "count": 2,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5404,7 +5404,7 @@
   {
     "incorrect_phrase": "در نتیجهً",
     "correct_phrase": "در نتیجه",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5459,7 +5459,7 @@
   {
     "incorrect_phrase": "دستورات",
     "correct_phrase": "دستورهای",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5604,7 +5604,7 @@
   {
     "incorrect_phrase": "رفتارات",
     "correct_phrase": "رفتارهای",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5648,7 +5648,7 @@
   {
     "incorrect_phrase": "رویدادات",
     "correct_phrase": "رویدادهای",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5825,7 +5825,7 @@
   {
     "incorrect_phrase": "شّاد",
     "correct_phrase": "شاد",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5847,7 +5847,7 @@
   {
     "incorrect_phrase": "شیوه‌ی",
     "correct_phrase": "شیوهٔ",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5880,7 +5880,7 @@
   {
     "incorrect_phrase": "طالار",
     "correct_phrase": "تالار",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5891,7 +5891,7 @@
   {
     "incorrect_phrase": "طراز",
     "correct_phrase": "تراز",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5947,7 +5947,7 @@
   {
     "incorrect_phrase": "عامّ",
     "correct_phrase": "عام",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -5958,7 +5958,7 @@
   {
     "incorrect_phrase": "عضم",
     "correct_phrase": "عزم",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6189,7 +6189,7 @@
   {
     "incorrect_phrase": "فعّال",
     "correct_phrase": "فعال",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6312,7 +6312,7 @@
   {
     "incorrect_phrase": "مئثر",
     "correct_phrase": "مؤثر",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6346,7 +6346,7 @@
   {
     "incorrect_phrase": "مبنی",
     "correct_phrase": "مبنای",
-    "count": 4,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6492,7 +6492,7 @@
   {
     "incorrect_phrase": "مطمأن",
     "correct_phrase": "مطمئن",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6625,7 +6625,7 @@
   {
     "incorrect_phrase": "مهمّ",
     "correct_phrase": "مهم",
-    "count": 9,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6636,7 +6636,7 @@
   {
     "incorrect_phrase": "مهمّ‌ترین",
     "correct_phrase": "مهم‌ترین",
-    "count": 7,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6659,7 +6659,7 @@
   {
     "incorrect_phrase": "موثّر",
     "correct_phrase": "مؤثر",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -6793,7 +6793,7 @@
   {
     "incorrect_phrase": "میاید",
     "correct_phrase": "می‌آید",
-    "count": 2,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی",
       "اشکالات نگارشی"
@@ -6885,7 +6885,7 @@
   {
     "incorrect_phrase": "میرفت",
     "correct_phrase": "می‌رفت",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی",
       "اشکالات نگارشی"
@@ -7063,7 +7063,7 @@
   {
     "incorrect_phrase": "نتیجة",
     "correct_phrase": "نتیجه",
-    "count": 6,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -7206,7 +7206,7 @@
   {
     "incorrect_phrase": "نهائی",
     "correct_phrase": "نهایی",
-    "count": 3,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -7240,7 +7240,7 @@
   {
     "incorrect_phrase": "هفته‌گی",
     "correct_phrase": "هفتگی",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -7430,7 +7430,7 @@
   {
     "incorrect_phrase": "وجوهات",
     "correct_phrase": "وجوه",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10210,7 +10210,7 @@
   {
     "incorrect_phrase": "أَبزار",
     "correct_phrase": "ابزار",
-    "count": 4,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10232,7 +10232,7 @@
   {
     "incorrect_phrase": "اب",
     "correct_phrase": "آب",
-    "count": 5,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10364,7 +10364,7 @@
   {
     "incorrect_phrase": "اجازة",
     "correct_phrase": "اجازهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10375,7 +10375,7 @@
   {
     "incorrect_phrase": "اجراء",
     "correct_phrase": "اجرا",
-    "count": 2,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10397,7 +10397,7 @@
   {
     "incorrect_phrase": "اجزاء",
     "correct_phrase": "اجزای",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10441,7 +10441,7 @@
   {
     "incorrect_phrase": "احتزاز",
     "correct_phrase": "اهتزاز",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10463,7 +10463,7 @@
   {
     "incorrect_phrase": "احیاءِ",
     "correct_phrase": "احیای",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -10749,7 +10749,7 @@
   {
     "incorrect_phrase": "ارزه",
     "correct_phrase": "عرضه",
-    "count": 4,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11046,7 +11046,7 @@
   {
     "incorrect_phrase": "استادین",
     "correct_phrase": "استادان",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11057,7 +11057,7 @@
   {
     "incorrect_phrase": "استثناء",
     "correct_phrase": "استثنا",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11156,7 +11156,7 @@
   {
     "incorrect_phrase": "استعفاء",
     "correct_phrase": "استعفا",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11299,7 +11299,7 @@
   {
     "incorrect_phrase": "اشارة",
     "correct_phrase": "اشاره",
-    "count": 2,
+    "count": 16,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11343,7 +11343,7 @@
   {
     "incorrect_phrase": "اصاص",
     "correct_phrase": "اساس",
-    "count": 1,
+    "count": 15,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11420,7 +11420,7 @@
   {
     "incorrect_phrase": "اطاعات",
     "correct_phrase": "اطلاعات",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11937,7 +11937,7 @@
   {
     "incorrect_phrase": "امار",
     "correct_phrase": "آمار",
-    "count": 1,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11959,7 +11959,7 @@
   {
     "incorrect_phrase": "امال",
     "correct_phrase": "اعمال",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11970,7 +11970,7 @@
   {
     "incorrect_phrase": "امده",
     "correct_phrase": "آمده",
-    "count": 3,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -11992,7 +11992,7 @@
   {
     "incorrect_phrase": "امضاء",
     "correct_phrase": "امضا",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12014,7 +12014,7 @@
   {
     "incorrect_phrase": "امل",
     "correct_phrase": "عمل",
-    "count": 3,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12102,7 +12102,7 @@
   {
     "incorrect_phrase": "انتحاب",
     "correct_phrase": "انتخاب",
-    "count": 5,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12267,7 +12267,7 @@
   {
     "incorrect_phrase": "انخطاط",
     "correct_phrase": "انحطاط",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12509,7 +12509,7 @@
   {
     "incorrect_phrase": "اهم",
     "correct_phrase": "اعم",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12520,7 +12520,7 @@
   {
     "incorrect_phrase": "اهمیة",
     "correct_phrase": "اهمیت",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12597,7 +12597,7 @@
   {
     "incorrect_phrase": "اورده",
     "correct_phrase": "آورده",
-    "count": 1,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12641,7 +12641,7 @@
   {
     "incorrect_phrase": "اولینً",
     "correct_phrase": "اولین",
-    "count": 3,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12652,7 +12652,7 @@
   {
     "incorrect_phrase": "اولیٰ",
     "correct_phrase": "اولی",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12784,7 +12784,7 @@
   {
     "incorrect_phrase": "اوّل",
     "correct_phrase": "اول",
-    "count": 8,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12795,7 +12795,7 @@
   {
     "incorrect_phrase": "اوّلین",
     "correct_phrase": "اولین",
-    "count": 4,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12828,7 +12828,7 @@
   {
     "incorrect_phrase": "اِستِدلال",
     "correct_phrase": "استدلال",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12839,7 +12839,7 @@
   {
     "incorrect_phrase": "اِعمال",
     "correct_phrase": "اعمال",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12850,7 +12850,7 @@
   {
     "incorrect_phrase": "اِقتصاد",
     "correct_phrase": "اقتصاد",
-    "count": 6,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -12861,7 +12861,7 @@
   {
     "incorrect_phrase": "اِقتِصاد",
     "correct_phrase": "اقتصاد",
-    "count": 3,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -14610,7 +14610,7 @@
   {
     "incorrect_phrase": "ب عبارت",
     "correct_phrase": "به عبارت",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -14720,7 +14720,7 @@
   {
     "incorrect_phrase": "بارهائاً",
     "correct_phrase": "بارها",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -14951,7 +14951,7 @@
   {
     "incorrect_phrase": "باغات",
     "correct_phrase": "باغ‌های",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -14995,7 +14995,7 @@
   {
     "incorrect_phrase": "بالاخرهً",
     "correct_phrase": "بالاخره",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -15314,7 +15314,7 @@
   {
     "incorrect_phrase": "بر اثر",
     "correct_phrase": "در اثر",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -15512,7 +15512,7 @@
   {
     "incorrect_phrase": "بررسي",
     "correct_phrase": "بررسی",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -15831,7 +15831,7 @@
   {
     "incorrect_phrase": "بساری",
     "correct_phrase": "بسیار",
-    "count": 2,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -15842,7 +15842,7 @@
   {
     "incorrect_phrase": "بسایار",
     "correct_phrase": "بسیار",
-    "count": 2,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -15875,7 +15875,7 @@
   {
     "incorrect_phrase": "بسّیار",
     "correct_phrase": "بسیار",
-    "count": 5,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -15952,7 +15952,7 @@
   {
     "incorrect_phrase": "بطور طبیعی",
     "correct_phrase": "به‌طور طبیعی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -16073,7 +16073,7 @@
   {
     "incorrect_phrase": "بنابرین",
     "correct_phrase": "بنابراین",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -16447,7 +16447,7 @@
   {
     "incorrect_phrase": "به عنوانًا",
     "correct_phrase": "به عنوان",
-    "count": 12,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -17283,7 +17283,7 @@
   {
     "incorrect_phrase": "به‌شدّت",
     "correct_phrase": "به‌شدت",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -17459,7 +17459,7 @@
   {
     "incorrect_phrase": "به‌ویژهً",
     "correct_phrase": "به‌ویژه",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -17624,7 +17624,7 @@
   {
     "incorrect_phrase": "بوچود",
     "correct_phrase": "به‌وجود",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -17701,7 +17701,7 @@
   {
     "incorrect_phrase": "بِرگزاری",
     "correct_phrase": "برگزاری",
-    "count": 3,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -17712,7 +17712,7 @@
   {
     "incorrect_phrase": "بِسیاری",
     "correct_phrase": "بسیاری",
-    "count": 11,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -17756,7 +17756,7 @@
   {
     "incorrect_phrase": "بکارگیری",
     "correct_phrase": "به‌کارگیری",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -18097,7 +18097,7 @@
   {
     "incorrect_phrase": "بیشترینٰ",
     "correct_phrase": "بیشترین",
-    "count": 4,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -18339,7 +18339,7 @@
   {
     "incorrect_phrase": "بی‌چاره",
     "correct_phrase": "بیچاره",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -18350,7 +18350,7 @@
   {
     "incorrect_phrase": "بی‌گانه",
     "correct_phrase": "بیگانه",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -18702,7 +18702,7 @@
   {
     "incorrect_phrase": "تحلِیل",
     "correct_phrase": "تحلیل",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -18933,7 +18933,7 @@
   {
     "incorrect_phrase": "تشّدید",
     "correct_phrase": "تشدید",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19142,7 +19142,7 @@
   {
     "incorrect_phrase": "تغیرات",
     "correct_phrase": "تغییرات",
-    "count": 3,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19164,7 +19164,7 @@
   {
     "incorrect_phrase": "تفرّیحی",
     "correct_phrase": "تفریحی",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19274,7 +19274,7 @@
   {
     "incorrect_phrase": "تقویة",
     "correct_phrase": "تقویت",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19285,7 +19285,7 @@
   {
     "incorrect_phrase": "تقییر",
     "correct_phrase": "تغییر",
-    "count": 7,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19307,7 +19307,7 @@
   {
     "incorrect_phrase": "تلاشات",
     "correct_phrase": "تلاش‌های",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19472,7 +19472,7 @@
   {
     "incorrect_phrase": "تمرکر",
     "correct_phrase": "تمرکز",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19571,7 +19571,7 @@
   {
     "incorrect_phrase": "توسعۀ",
     "correct_phrase": "توسعه",
-    "count": 6,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19637,7 +19637,7 @@
   {
     "incorrect_phrase": "تَمرکز",
     "correct_phrase": "تمرکز",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19648,7 +19648,7 @@
   {
     "incorrect_phrase": "تَوافق",
     "correct_phrase": "توافق",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19659,7 +19659,7 @@
   {
     "incorrect_phrase": "تَوْلید",
     "correct_phrase": "تولید",
-    "count": 5,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19681,7 +19681,7 @@
   {
     "incorrect_phrase": "تِحقیقات",
     "correct_phrase": "تحقیقات",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -19692,7 +19692,7 @@
   {
     "incorrect_phrase": "تِمرین",
     "correct_phrase": "تمرین",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20011,7 +20011,7 @@
   {
     "incorrect_phrase": "جدّی",
     "correct_phrase": "جدی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20110,7 +20110,7 @@
   {
     "incorrect_phrase": "جلوگیرئ",
     "correct_phrase": "جلوگیری",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20297,7 +20297,7 @@
   {
     "incorrect_phrase": "حال",
     "correct_phrase": "حل",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20330,7 +20330,7 @@
   {
     "incorrect_phrase": "حالاً",
     "correct_phrase": "حال",
-    "count": 3,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20341,7 +20341,7 @@
   {
     "incorrect_phrase": "حالیٰ",
     "correct_phrase": "حالی",
-    "count": 2,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20385,7 +20385,7 @@
   {
     "incorrect_phrase": "حتّی",
     "correct_phrase": "حتی",
-    "count": 2,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20396,7 +20396,7 @@
   {
     "incorrect_phrase": "حتیٰ",
     "correct_phrase": "حتی",
-    "count": 3,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20429,7 +20429,7 @@
   {
     "incorrect_phrase": "حدّ",
     "correct_phrase": "حد",
-    "count": 2,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20440,7 +20440,7 @@
   {
     "incorrect_phrase": "حدّاقل",
     "correct_phrase": "حداقل",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20484,7 +20484,7 @@
   {
     "incorrect_phrase": "حرفه‌ئی",
     "correct_phrase": "حرفه‌ای",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20539,7 +20539,7 @@
   {
     "incorrect_phrase": "حفز",
     "correct_phrase": "حفظ",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20627,7 +20627,7 @@
   {
     "incorrect_phrase": "حلّ",
     "correct_phrase": "حل",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20671,7 +20671,7 @@
   {
     "incorrect_phrase": "حوضه",
     "correct_phrase": "حوزه",
-    "count": 5,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20682,7 +20682,7 @@
   {
     "incorrect_phrase": "حوضهٔ",
     "correct_phrase": "حوزهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20693,7 +20693,7 @@
   {
     "incorrect_phrase": "حَال",
     "correct_phrase": "حال",
-    "count": 3,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20759,7 +20759,7 @@
   {
     "incorrect_phrase": "خاست",
     "correct_phrase": "خواست",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -20781,7 +20781,7 @@
   {
     "incorrect_phrase": "خاصّی",
     "correct_phrase": "خاصی",
-    "count": 4,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -21155,7 +21155,7 @@
   {
     "incorrect_phrase": "خورد",
     "correct_phrase": "خرد",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -21177,7 +21177,7 @@
   {
     "incorrect_phrase": "خَدمت",
     "correct_phrase": "خدمت",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -21199,7 +21199,7 @@
   {
     "incorrect_phrase": "خُشم",
     "correct_phrase": "خشم",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -21232,7 +21232,7 @@
   {
     "incorrect_phrase": "خیش",
     "correct_phrase": "خویش",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -21639,7 +21639,7 @@
   {
     "incorrect_phrase": "داورین",
     "correct_phrase": "داوران",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -21650,7 +21650,7 @@
   {
     "incorrect_phrase": "دایرة",
     "correct_phrase": "دایره",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -21738,7 +21738,7 @@
   {
     "incorrect_phrase": "در اصلً",
     "correct_phrase": "در اصل",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22013,7 +22013,7 @@
   {
     "incorrect_phrase": "در نهایتاً",
     "correct_phrase": "در نهایت",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22035,7 +22035,7 @@
   {
     "incorrect_phrase": "در واقعً",
     "correct_phrase": "در واقع",
-    "count": 6,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22068,7 +22068,7 @@
   {
     "incorrect_phrase": "درباره‌ی",
     "correct_phrase": "دربارهٔ",
-    "count": 3,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22079,7 +22079,7 @@
   {
     "incorrect_phrase": "درجة",
     "correct_phrase": "درجهٔ",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22299,7 +22299,7 @@
   {
     "incorrect_phrase": "دعوه",
     "correct_phrase": "دعوت",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22343,7 +22343,7 @@
   {
     "incorrect_phrase": "دقیقة",
     "correct_phrase": "دقیقه",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22442,7 +22442,7 @@
   {
     "incorrect_phrase": "دههِ",
     "correct_phrase": "دههٔ",
-    "count": 1,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22585,7 +22585,7 @@
   {
     "incorrect_phrase": "دوره‌ی",
     "correct_phrase": "دورهٔ",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22596,7 +22596,7 @@
   {
     "incorrect_phrase": "دورِهِ",
     "correct_phrase": "دورهٔ",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22706,7 +22706,7 @@
   {
     "incorrect_phrase": "دِقیق",
     "correct_phrase": "دقیق",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -22926,7 +22926,7 @@
   {
     "incorrect_phrase": "رءیس",
     "correct_phrase": "رئیس",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23025,7 +23025,7 @@
   {
     "incorrect_phrase": "راحتیاً",
     "correct_phrase": "راحتی",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23388,7 +23388,7 @@
   {
     "incorrect_phrase": "رقّابت",
     "correct_phrase": "رقابت",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23674,7 +23674,7 @@
   {
     "incorrect_phrase": "رَئیس",
     "correct_phrase": "رئیس",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23696,7 +23696,7 @@
   {
     "incorrect_phrase": "رَوح",
     "correct_phrase": "روح",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23707,7 +23707,7 @@
   {
     "incorrect_phrase": "رَوَند",
     "correct_phrase": "روند",
-    "count": 2,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23729,7 +23729,7 @@
   {
     "incorrect_phrase": "رُفته",
     "correct_phrase": "رفته",
-    "count": 5,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23740,7 +23740,7 @@
   {
     "incorrect_phrase": "رُوحیه",
     "correct_phrase": "روحیه",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -23894,7 +23894,7 @@
   {
     "incorrect_phrase": "زخیره",
     "correct_phrase": "ذخیره",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24004,7 +24004,7 @@
   {
     "incorrect_phrase": "زوداً",
     "correct_phrase": "زود",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24026,7 +24026,7 @@
   {
     "incorrect_phrase": "زکر می‌کند",
     "correct_phrase": "ذکر می‌کند",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24048,7 +24048,7 @@
   {
     "incorrect_phrase": "زیاداً",
     "correct_phrase": "زیاد",
-    "count": 4,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24081,7 +24081,7 @@
   {
     "incorrect_phrase": "زیراً",
     "correct_phrase": "زیرا",
-    "count": 3,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24301,7 +24301,7 @@
   {
     "incorrect_phrase": "ستاره‌گان",
     "correct_phrase": "ستارگان",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24400,7 +24400,7 @@
   {
     "incorrect_phrase": "سرانجاماً",
     "correct_phrase": "سرانجام",
-    "count": 3,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24455,7 +24455,7 @@
   {
     "incorrect_phrase": "سرمایه‌گزاری",
     "correct_phrase": "سرمایه‌گذاری",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24675,7 +24675,7 @@
   {
     "incorrect_phrase": "سو",
     "correct_phrase": "سوء",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24763,7 +24763,7 @@
   {
     "incorrect_phrase": "سورت",
     "correct_phrase": "صورت",
-    "count": 10,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24774,7 +24774,7 @@
   {
     "incorrect_phrase": "سوسیالیزم",
     "correct_phrase": "سوسیالیسم",
-    "count": 3,
+    "count": 15,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24796,7 +24796,7 @@
   {
     "incorrect_phrase": "سوّم",
     "correct_phrase": "سوم",
-    "count": 7,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24807,7 +24807,7 @@
   {
     "incorrect_phrase": "سَطح",
     "correct_phrase": "سطح",
-    "count": 3,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24818,7 +24818,7 @@
   {
     "incorrect_phrase": "سَلامت",
     "correct_phrase": "سلامت",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24829,7 +24829,7 @@
   {
     "incorrect_phrase": "سِلسِلِهِ",
     "correct_phrase": "سلسلهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24840,7 +24840,7 @@
   {
     "incorrect_phrase": "سِمَّتِ",
     "correct_phrase": "سمت",
-    "count": 1,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -24906,7 +24906,7 @@
   {
     "incorrect_phrase": "سپساً",
     "correct_phrase": "سپس",
-    "count": 4,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25137,7 +25137,7 @@
   {
     "incorrect_phrase": "شبح",
     "correct_phrase": "شبه",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25148,7 +25148,7 @@
   {
     "incorrect_phrase": "شبّ",
     "correct_phrase": "شبیه",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25159,7 +25159,7 @@
   {
     "incorrect_phrase": "شبّه",
     "correct_phrase": "شبیه",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25203,7 +25203,7 @@
   {
     "incorrect_phrase": "شخصّیت",
     "correct_phrase": "شخصیت",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25390,7 +25390,7 @@
   {
     "incorrect_phrase": "شدّت",
     "correct_phrase": "شدت",
-    "count": 3,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25423,7 +25423,7 @@
   {
     "incorrect_phrase": "شرائط",
     "correct_phrase": "شرایط",
-    "count": 4,
+    "count": 18,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25511,7 +25511,7 @@
   {
     "incorrect_phrase": "ششماً",
     "correct_phrase": "ششم",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25665,7 +25665,7 @@
   {
     "incorrect_phrase": "شوری",
     "correct_phrase": "شورای",
-    "count": 3,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25698,7 +25698,7 @@
   {
     "incorrect_phrase": "شِدت",
     "correct_phrase": "شدت",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25709,7 +25709,7 @@
   {
     "incorrect_phrase": "شکستِ",
     "correct_phrase": "شکست",
-    "count": 1,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25940,7 +25940,7 @@
   {
     "incorrect_phrase": "صفحة",
     "correct_phrase": "صفحه",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -25962,7 +25962,7 @@
   {
     "incorrect_phrase": "صمت",
     "correct_phrase": "سمت",
-    "count": 2,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26006,7 +26006,7 @@
   {
     "incorrect_phrase": "صَرف",
     "correct_phrase": "صرف",
-    "count": 3,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26094,7 +26094,7 @@
   {
     "incorrect_phrase": "ضرّوری",
     "correct_phrase": "ضروری",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26127,7 +26127,7 @@
   {
     "incorrect_phrase": "ضمینه",
     "correct_phrase": "زمینه",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26138,7 +26138,7 @@
   {
     "incorrect_phrase": "طالر",
     "correct_phrase": "تالار",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26380,7 +26380,7 @@
   {
     "incorrect_phrase": "عصر",
     "correct_phrase": "اثر",
-    "count": 8,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26391,7 +26391,7 @@
   {
     "incorrect_phrase": "علاقة",
     "correct_phrase": "علاقه",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26402,7 +26402,7 @@
   {
     "incorrect_phrase": "علاقهمند",
     "correct_phrase": "علاقه‌مند",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26468,7 +26468,7 @@
   {
     "incorrect_phrase": "علی‌رقم",
     "correct_phrase": "علی‌رغم",
-    "count": 1,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26534,7 +26534,7 @@
   {
     "incorrect_phrase": "عمّومی",
     "correct_phrase": "عمومی",
-    "count": 2,
+    "count": 15,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26556,7 +26556,7 @@
   {
     "incorrect_phrase": "عنوانات",
     "correct_phrase": "عنوان",
-    "count": 2,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26622,7 +26622,7 @@
   {
     "incorrect_phrase": "عَلم",
     "correct_phrase": "علم",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26644,7 +26644,7 @@
   {
     "incorrect_phrase": "عِلاوه",
     "correct_phrase": "علاوه",
-    "count": 3,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26677,7 +26677,7 @@
   {
     "incorrect_phrase": "عیسى",
     "correct_phrase": "عیسی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26699,7 +26699,7 @@
   {
     "incorrect_phrase": "غالب",
     "correct_phrase": "قالب",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -26754,7 +26754,7 @@
   {
     "incorrect_phrase": "غریب",
     "correct_phrase": "قریب",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -27260,7 +27260,7 @@
   {
     "incorrect_phrase": "فعالیتات",
     "correct_phrase": "فعالیت‌های",
-    "count": 2,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -27315,7 +27315,7 @@
   {
     "incorrect_phrase": "فقّط",
     "correct_phrase": "فقط",
-    "count": 2,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -27348,7 +27348,7 @@
   {
     "incorrect_phrase": "فلسفة",
     "correct_phrase": "فلسفهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -27381,7 +27381,7 @@
   {
     "incorrect_phrase": "فن‌آوری",
     "correct_phrase": "فناوری",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -27425,7 +27425,7 @@
   {
     "incorrect_phrase": "فیلمات",
     "correct_phrase": "فیلم",
-    "count": 4,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -27480,7 +27480,7 @@
   {
     "incorrect_phrase": "قابلیة",
     "correct_phrase": "قابلیت",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -27887,7 +27887,7 @@
   {
     "incorrect_phrase": "لباس‌ها",
     "correct_phrase": "لباس",
-    "count": 1,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28030,7 +28030,7 @@
   {
     "incorrect_phrase": "مؤثّر",
     "correct_phrase": "مؤثر",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28085,7 +28085,7 @@
   {
     "incorrect_phrase": "مؤسّسات",
     "correct_phrase": "مؤسسات",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28393,7 +28393,7 @@
   {
     "incorrect_phrase": "مالکیة",
     "correct_phrase": "مالکیت",
-    "count": 1,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28459,7 +28459,7 @@
   {
     "incorrect_phrase": "ماها",
     "correct_phrase": "ما",
-    "count": 1,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28580,7 +28580,7 @@
   {
     "incorrect_phrase": "متئسفانه",
     "correct_phrase": "متأسفانه",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28602,7 +28602,7 @@
   {
     "incorrect_phrase": "متخصّص",
     "correct_phrase": "متخصص",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28811,7 +28811,7 @@
   {
     "incorrect_phrase": "مجتبا",
     "correct_phrase": "مجتبی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28888,7 +28888,7 @@
   {
     "incorrect_phrase": "مجموعهه",
     "correct_phrase": "مجموعهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -28976,7 +28976,7 @@
   {
     "incorrect_phrase": "محدّودی",
     "correct_phrase": "محدودی",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29009,7 +29009,7 @@
   {
     "incorrect_phrase": "محفوض",
     "correct_phrase": "محفوظ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29031,7 +29031,7 @@
   {
     "incorrect_phrase": "محقّقان",
     "correct_phrase": "محققان",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29042,7 +29042,7 @@
   {
     "incorrect_phrase": "محلّ",
     "correct_phrase": "محل",
-    "count": 8,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29097,7 +29097,7 @@
   {
     "incorrect_phrase": "مخّتلف",
     "correct_phrase": "مختلف",
-    "count": 13,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29108,7 +29108,7 @@
   {
     "incorrect_phrase": "مدرسة",
     "correct_phrase": "مدرسهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29317,7 +29317,7 @@
   {
     "incorrect_phrase": "مری",
     "correct_phrase": "مربی",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29350,7 +29350,7 @@
   {
     "incorrect_phrase": "مزبور",
     "correct_phrase": "منظور",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29372,7 +29372,7 @@
   {
     "incorrect_phrase": "مسؤلیت",
     "correct_phrase": "مسئولیت",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29383,7 +29383,7 @@
   {
     "incorrect_phrase": "مسئلت",
     "correct_phrase": "مسئله",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29493,7 +29493,7 @@
   {
     "incorrect_phrase": "مسایل",
     "correct_phrase": "مسائل",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29537,7 +29537,7 @@
   {
     "incorrect_phrase": "مستقلّ",
     "correct_phrase": "مستقل",
-    "count": 3,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29548,7 +29548,7 @@
   {
     "incorrect_phrase": "مستمرّ",
     "correct_phrase": "مستمر",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29559,7 +29559,7 @@
   {
     "incorrect_phrase": "مسعول",
     "correct_phrase": "مسئول",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29636,7 +29636,7 @@
   {
     "incorrect_phrase": "مشخّص",
     "correct_phrase": "مشخص",
-    "count": 3,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29702,7 +29702,7 @@
   {
     "incorrect_phrase": "مصطفا",
     "correct_phrase": "مصطفی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29724,7 +29724,7 @@
   {
     "incorrect_phrase": "مصیر",
     "correct_phrase": "مسیر",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -29845,7 +29845,7 @@
   {
     "incorrect_phrase": "مطمح",
     "correct_phrase": "مطرح",
-    "count": 3,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -30032,7 +30032,7 @@
   {
     "incorrect_phrase": "معناى",
     "correct_phrase": "معنای",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -30076,7 +30076,7 @@
   {
     "incorrect_phrase": "معیوره‌های",
     "correct_phrase": "معیارهای",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -30219,7 +30219,7 @@
   {
     "incorrect_phrase": "مقیّسه",
     "correct_phrase": "مقایسه",
-    "count": 4,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -30572,7 +30572,7 @@
   {
     "incorrect_phrase": "منطقة",
     "correct_phrase": "منطقهٔ",
-    "count": 1,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -30693,7 +30693,7 @@
   {
     "incorrect_phrase": "موئلف",
     "correct_phrase": "مؤلف",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -30704,7 +30704,7 @@
   {
     "incorrect_phrase": "مواجهه",
     "correct_phrase": "مواجه",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31023,7 +31023,7 @@
   {
     "incorrect_phrase": "موزی",
     "correct_phrase": "موذی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31034,7 +31034,7 @@
   {
     "incorrect_phrase": "موسا",
     "correct_phrase": "موسی",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31089,7 +31089,7 @@
   {
     "incorrect_phrase": "موفقت",
     "correct_phrase": "موافقت",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31100,7 +31100,7 @@
   {
     "incorrect_phrase": "موفقّ",
     "correct_phrase": "موفق",
-    "count": 3,
+    "count": 14,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31133,7 +31133,7 @@
   {
     "incorrect_phrase": "موفّقیت",
     "correct_phrase": "موفقیت",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31144,7 +31144,7 @@
   {
     "incorrect_phrase": "موفّقیت‌آمیز",
     "correct_phrase": "موفقیت‌آمیز",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31199,7 +31199,7 @@
   {
     "incorrect_phrase": "مَدیریت",
     "correct_phrase": "مدیریت",
-    "count": 4,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31210,7 +31210,7 @@
   {
     "incorrect_phrase": "مَسیر",
     "correct_phrase": "مسیر",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31221,7 +31221,7 @@
   {
     "incorrect_phrase": "مَقالات",
     "correct_phrase": "مقالات",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31254,7 +31254,7 @@
   {
     "incorrect_phrase": "مَهاجرت",
     "correct_phrase": "مهاجرت",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31265,7 +31265,7 @@
   {
     "incorrect_phrase": "مُؤسسات",
     "correct_phrase": "مؤسسات",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31276,7 +31276,7 @@
   {
     "incorrect_phrase": "مُتَخَصِّص",
     "correct_phrase": "متخصص",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31298,7 +31298,7 @@
   {
     "incorrect_phrase": "مُتَمَرکِز",
     "correct_phrase": "متمرکز",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31331,7 +31331,7 @@
   {
     "incorrect_phrase": "مُسائل",
     "correct_phrase": "مسائل",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31353,7 +31353,7 @@
   {
     "incorrect_phrase": "مُستَمِر",
     "correct_phrase": "مستمر",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31364,7 +31364,7 @@
   {
     "incorrect_phrase": "مُشارکت",
     "correct_phrase": "مشارکت",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31386,7 +31386,7 @@
   {
     "incorrect_phrase": "مُقالات",
     "correct_phrase": "مقالات",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31397,7 +31397,7 @@
   {
     "incorrect_phrase": "مُهِم",
     "correct_phrase": "مهم",
-    "count": 1,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31408,7 +31408,7 @@
   {
     "incorrect_phrase": "مِشارکت",
     "correct_phrase": "مشارکت",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31419,7 +31419,7 @@
   {
     "incorrect_phrase": "مکرّر",
     "correct_phrase": "مکرر",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -31771,7 +31771,7 @@
   {
     "incorrect_phrase": "میانگن",
     "correct_phrase": "میانگین",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33168,7 +33168,7 @@
   {
     "incorrect_phrase": "ناگزیرًا",
     "correct_phrase": "ناگزیر",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33399,7 +33399,7 @@
   {
     "incorrect_phrase": "نتایح",
     "correct_phrase": "نتایج",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33685,7 +33685,7 @@
   {
     "incorrect_phrase": "نسبة",
     "correct_phrase": "نسبت",
-    "count": 4,
+    "count": 18,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33762,7 +33762,7 @@
   {
     "incorrect_phrase": "نشأت",
     "correct_phrase": "نشست",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33795,7 +33795,7 @@
   {
     "incorrect_phrase": "نشانه‌ی",
     "correct_phrase": "نشانهٔ",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33883,7 +33883,7 @@
   {
     "incorrect_phrase": "نظریة",
     "correct_phrase": "نظریه",
-    "count": 4,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33894,7 +33894,7 @@
   {
     "incorrect_phrase": "نظریة",
     "correct_phrase": "نظریهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33927,7 +33927,7 @@
   {
     "incorrect_phrase": "نظّام",
     "correct_phrase": "نظام",
-    "count": 4,
+    "count": 18,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33949,7 +33949,7 @@
   {
     "incorrect_phrase": "نغز",
     "correct_phrase": "نقض",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -33971,7 +33971,7 @@
   {
     "incorrect_phrase": "نفوز",
     "correct_phrase": "نفوذ",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34015,7 +34015,7 @@
   {
     "incorrect_phrase": "نقطة",
     "correct_phrase": "نقطه",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34026,7 +34026,7 @@
   {
     "incorrect_phrase": "نقطة",
     "correct_phrase": "نقطهٔ",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34202,7 +34202,7 @@
   {
     "incorrect_phrase": "نمونه‌ی",
     "correct_phrase": "نمونهٔ",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34730,7 +34730,7 @@
   {
     "incorrect_phrase": "نَرخ",
     "correct_phrase": "نرخ",
-    "count": 3,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34752,7 +34752,7 @@
   {
     "incorrect_phrase": "نَقش",
     "correct_phrase": "نقش",
-    "count": 2,
+    "count": 19,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34785,7 +34785,7 @@
   {
     "incorrect_phrase": "نِظرات",
     "correct_phrase": "نظرات",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34796,7 +34796,7 @@
   {
     "incorrect_phrase": "نِیاز",
     "correct_phrase": "نیاز",
-    "count": 4,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -34851,7 +34851,7 @@
   {
     "incorrect_phrase": "نگرشات",
     "correct_phrase": "نگرش‌های",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35027,7 +35027,7 @@
   {
     "incorrect_phrase": "هال",
     "correct_phrase": "حال",
-    "count": 1,
+    "count": 13,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35302,7 +35302,7 @@
   {
     "incorrect_phrase": "هفتّه‌ای",
     "correct_phrase": "هفته‌ای",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35313,7 +35313,7 @@
   {
     "incorrect_phrase": "هفظ",
     "correct_phrase": "حفظ",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35577,7 +35577,7 @@
   {
     "incorrect_phrase": "همهء",
     "correct_phrase": "همهٔ",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35588,7 +35588,7 @@
   {
     "incorrect_phrase": "هموارهً",
     "correct_phrase": "همواره",
-    "count": 5,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35676,7 +35676,7 @@
   {
     "incorrect_phrase": "هول",
     "correct_phrase": "حول",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35687,7 +35687,7 @@
   {
     "incorrect_phrase": "هوییت",
     "correct_phrase": "هویت",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35764,7 +35764,7 @@
   {
     "incorrect_phrase": "هیچ‌کَس",
     "correct_phrase": "هیچ‌کس",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -35962,7 +35962,7 @@
   {
     "incorrect_phrase": "ورزشات",
     "correct_phrase": "ورزش‌های",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -36666,7 +36666,7 @@
   {
     "incorrect_phrase": "پایة",
     "correct_phrase": "پایهٔ",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37073,7 +37073,7 @@
   {
     "incorrect_phrase": "پزشگ",
     "correct_phrase": "پزشک",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37524,7 +37524,7 @@
   {
     "incorrect_phrase": "پیداً",
     "correct_phrase": "پیدا",
-    "count": 6,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37634,7 +37634,7 @@
   {
     "incorrect_phrase": "پیشتراً",
     "correct_phrase": "پیش‌تر",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37667,7 +37667,7 @@
   {
     "incorrect_phrase": "پیشنهاداتی",
     "correct_phrase": "پیشنهادهایی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37766,7 +37766,7 @@
   {
     "incorrect_phrase": "پیوستهً",
     "correct_phrase": "پیوسته",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37777,7 +37777,7 @@
   {
     "incorrect_phrase": "پییش",
     "correct_phrase": "پیش",
-    "count": 13,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37799,7 +37799,7 @@
   {
     "incorrect_phrase": "چایی",
     "correct_phrase": "چای",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -37986,7 +37986,7 @@
   {
     "incorrect_phrase": "کارآمّدی",
     "correct_phrase": "کارآمدی",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38426,7 +38426,7 @@
   {
     "incorrect_phrase": "کلّ",
     "correct_phrase": "کل",
-    "count": 2,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38437,7 +38437,7 @@
   {
     "incorrect_phrase": "کلّی",
     "correct_phrase": "کلی",
-    "count": 1,
+    "count": 9,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38624,7 +38624,7 @@
   {
     "incorrect_phrase": "کم‌کمًا",
     "correct_phrase": "کم‌کم",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38800,7 +38800,7 @@
   {
     "incorrect_phrase": "کیفیة",
     "correct_phrase": "کیفیت",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38833,7 +38833,7 @@
   {
     "incorrect_phrase": "گاهًا",
     "correct_phrase": "گاه",
-    "count": 3,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38866,7 +38866,7 @@
   {
     "incorrect_phrase": "گذارش",
     "correct_phrase": "گزارش",
-    "count": 4,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38877,7 +38877,7 @@
   {
     "incorrect_phrase": "گذارش‌های",
     "correct_phrase": "گزارش‌های",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38899,7 +38899,7 @@
   {
     "incorrect_phrase": "گذشتهاً",
     "correct_phrase": "گذشته",
-    "count": 4,
+    "count": 15,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -38921,7 +38921,7 @@
   {
     "incorrect_phrase": "گرایشات",
     "correct_phrase": "گرایش‌ها",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39119,7 +39119,7 @@
   {
     "incorrect_phrase": "گزارس",
     "correct_phrase": "گزارش",
-    "count": 1,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39251,7 +39251,7 @@
   {
     "incorrect_phrase": "گفته‌ی",
     "correct_phrase": "گفتهٔ",
-    "count": 1,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39460,7 +39460,7 @@
   {
     "incorrect_phrase": "یحیا",
     "correct_phrase": "یحیی",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39757,7 +39757,7 @@
   {
     "incorrect_phrase": "انترنت",
     "correct_phrase": "اینترنت",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39768,7 +39768,7 @@
   {
     "incorrect_phrase": "دنياء",
     "correct_phrase": "دنیا",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39801,7 +39801,7 @@
   {
     "incorrect_phrase": "اكتوبر",
     "correct_phrase": "اکتبر",
-    "count": 4,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39845,7 +39845,7 @@
   {
     "incorrect_phrase": "مَقاله",
     "correct_phrase": "مقاله",
-    "count": 1,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39856,7 +39856,7 @@
   {
     "incorrect_phrase": "سیّاست",
     "correct_phrase": "سیاست",
-    "count": 4,
+    "count": 15,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39867,7 +39867,7 @@
   {
     "incorrect_phrase": "تهییه",
     "correct_phrase": "تهیه",
-    "count": 6,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39878,7 +39878,7 @@
   {
     "incorrect_phrase": "پژوشگران",
     "correct_phrase": "پژوهشگران",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39900,7 +39900,7 @@
   {
     "incorrect_phrase": "فشّرده",
     "correct_phrase": "فشرده",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39922,7 +39922,7 @@
   {
     "incorrect_phrase": "رسّمی",
     "correct_phrase": "رسمی",
-    "count": 3,
+    "count": 15,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39933,7 +39933,7 @@
   {
     "incorrect_phrase": "همكاری",
     "correct_phrase": "همکاری",
-    "count": 4,
+    "count": 11,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -39955,7 +39955,7 @@
   {
     "incorrect_phrase": "مهیّت",
     "correct_phrase": "ماهیت",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40010,7 +40010,7 @@
   {
     "incorrect_phrase": "مقالة",
     "correct_phrase": "مقاله",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40021,7 +40021,7 @@
   {
     "incorrect_phrase": "تعدّد",
     "correct_phrase": "تعداد",
-    "count": 6,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40043,7 +40043,7 @@
   {
     "incorrect_phrase": "مي‌دهند",
     "correct_phrase": "می‌دهند",
-    "count": 5,
+    "count": 15,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40054,7 +40054,7 @@
   {
     "incorrect_phrase": "واقعۀ",
     "correct_phrase": "واقعه",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40065,7 +40065,7 @@
   {
     "incorrect_phrase": "ازاد",
     "correct_phrase": "آزاد",
-    "count": 3,
+    "count": 16,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40087,7 +40087,7 @@
   {
     "incorrect_phrase": "إنتقال",
     "correct_phrase": "انتقال",
-    "count": 2,
+    "count": 8,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40109,7 +40109,7 @@
   {
     "incorrect_phrase": "ژوین",
     "correct_phrase": "ژوئن",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40120,7 +40120,7 @@
   {
     "incorrect_phrase": "سازّمان",
     "correct_phrase": "سازمان",
-    "count": 8,
+    "count": 19,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40131,7 +40131,7 @@
   {
     "incorrect_phrase": "سِپتامبر",
     "correct_phrase": "سپتامبر",
-    "count": 2,
+    "count": 7,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40142,7 +40142,7 @@
   {
     "incorrect_phrase": "معّروف",
     "correct_phrase": "معروف",
-    "count": 11,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40153,7 +40153,7 @@
   {
     "incorrect_phrase": "خاهند",
     "correct_phrase": "خواهند",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40164,7 +40164,7 @@
   {
     "incorrect_phrase": "حُدود",
     "correct_phrase": "حدود",
-    "count": 12,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40186,7 +40186,7 @@
   {
     "incorrect_phrase": "رَسیدند",
     "correct_phrase": "رسیدند",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40197,7 +40197,7 @@
   {
     "incorrect_phrase": "میژان",
     "correct_phrase": "میزان",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40208,7 +40208,7 @@
   {
     "incorrect_phrase": "میلون",
     "correct_phrase": "میلیون",
-    "count": 7,
+    "count": 18,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40241,7 +40241,7 @@
   {
     "incorrect_phrase": "تارخ",
     "correct_phrase": "تاریخ",
-    "count": 14,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40263,7 +40263,7 @@
   {
     "incorrect_phrase": "فلسفة",
     "correct_phrase": "فلسفه",
-    "count": 8,
+    "count": 12,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40274,7 +40274,7 @@
   {
     "incorrect_phrase": "می‌کَنند",
     "correct_phrase": "می‌کنند",
-    "count": 16,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40285,7 +40285,7 @@
   {
     "incorrect_phrase": "إعمال",
     "correct_phrase": "اعمال",
-    "count": 2,
+    "count": 5,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40296,7 +40296,7 @@
   {
     "incorrect_phrase": "تبدیّل",
     "correct_phrase": "تبدیل",
-    "count": 6,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40307,7 +40307,7 @@
   {
     "incorrect_phrase": "مَوجود",
     "correct_phrase": "موجود",
-    "count": 4,
+    "count": 16,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40318,7 +40318,7 @@
   {
     "incorrect_phrase": "مجموعّة",
     "correct_phrase": "مجموعه",
-    "count": 6,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40340,7 +40340,7 @@
   {
     "incorrect_phrase": "مي‌دهد",
     "correct_phrase": "می‌دهد",
-    "count": 7,
+    "count": 19,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40362,7 +40362,7 @@
   {
     "incorrect_phrase": "اطلاعاتي",
     "correct_phrase": "اطلاعاتی",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40373,7 +40373,7 @@
   {
     "incorrect_phrase": "صوّتی",
     "correct_phrase": "صوتی",
-    "count": 1,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40406,7 +40406,7 @@
   {
     "incorrect_phrase": "دنیاء",
     "correct_phrase": "دنیا",
-    "count": 2,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40417,7 +40417,7 @@
   {
     "incorrect_phrase": "مصاویر",
     "correct_phrase": "تصاویر",
-    "count": 4,
+    "count": 6,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40428,7 +40428,7 @@
   {
     "incorrect_phrase": "بُخش",
     "correct_phrase": "بخش",
-    "count": 12,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40494,7 +40494,7 @@
   {
     "incorrect_phrase": "پاگاه",
     "correct_phrase": "پایگاه",
-    "count": 3,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40505,7 +40505,7 @@
   {
     "incorrect_phrase": "مخصوصاً",
     "correct_phrase": "مخصوص",
-    "count": 3,
+    "count": 10,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40516,7 +40516,7 @@
   {
     "incorrect_phrase": "منذور",
     "correct_phrase": "منظور",
-    "count": 1,
+    "count": 2,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40527,7 +40527,7 @@
   {
     "incorrect_phrase": "محصوب",
     "correct_phrase": "محسوب",
-    "count": 5,
+    "count": 20,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40560,7 +40560,7 @@
   {
     "incorrect_phrase": "فرانسة",
     "correct_phrase": "فرانسه",
-    "count": 5,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40571,7 +40571,7 @@
   {
     "incorrect_phrase": "جنوبى",
     "correct_phrase": "جنوبی",
-    "count": 1,
+    "count": 17,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40604,7 +40604,7 @@
   {
     "incorrect_phrase": "أصل",
     "correct_phrase": "اصل",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40615,7 +40615,7 @@
   {
     "incorrect_phrase": "بررّسی",
     "correct_phrase": "بررسی",
-    "count": 1,
+    "count": 4,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
@@ -40626,7 +40626,7 @@
   {
     "incorrect_phrase": "إعتماد",
     "correct_phrase": "اعتماد",
-    "count": 2,
+    "count": 3,
     "error_category": [
       "اشکالات املایی و واژگانی"
     ],
